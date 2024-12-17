@@ -1,0 +1,692 @@
+[
+  {
+    "name": "Fiction",
+    "description": "Narrative literature created from the imagination, not presented as fact.",
+    "subgenres": [
+      "Literary Fiction",
+      "Historical Fiction",
+      "Mystery",
+      "Science Fiction",
+      "Fantasy",
+      "Romance",
+      "Horror",
+      "Thriller",
+      "Dystopian",
+      "Adventure"
+    ]
+  },
+  {
+    "name": "Non-Fiction",
+    "description": "Factual accounts that present real-life events or ideas.",
+    "subgenres": [
+      "Biography",
+      "Memoir",
+      "Self-Help",
+      "Cookbooks",
+      "Travel",
+      "History",
+      "True Crime",
+      "Business",
+      "Philosophy",
+      "Science"
+    ]
+  },
+  {
+    "name": "Poetry",
+    "description": "Artful expression of emotions and ideas through verse.",
+    "subgenres": [
+      "Lyric Poetry",
+      "Narrative Poetry",
+      "Dramatic Poetry",
+      "Sonnet",
+      "Haiku",
+      "Free Verse",
+      "Epic Poetry"
+    ]
+  },
+  {
+    "name": "Drama",
+    "description": "A genre designed for performance, typically involving character conflict.",
+    "subgenres": [
+      "Tragedy",
+      "Comedy",
+      "Melodrama",
+      "Musical",
+      "Farce",
+      "One-Act Plays"
+    ]
+  },
+  {
+    "name": "Graphic Novels",
+    "description": "Narrative works that combine text and illustrations, often resembling comic books.",
+    "subgenres": [
+      "Superhero",
+      "Manga",
+      "Young Adult Graphic Novels",
+      "Non-Fiction Graphic Novels",
+      "Fantasy Graphic Novels",
+      "Historical Graphic Novels"
+    ]
+  },
+  {
+    "name": "Children's Literature",
+    "description": "Books written for children, including picture books, early readers, and chapter books.",
+    "subgenres": [
+      "Picture Books",
+      "Middle Grade Fiction",
+      "Young Adult Fiction",
+      "Fairy Tales",
+      "Fables"
+    ]
+  },
+  {
+    "name": "Anthology",
+    "description": "A collection of works by different authors, typically centered around a theme.",
+    "subgenres": [
+      "Short Stories",
+      "Poetry Collections",
+      "Essays",
+      "Short Plays"
+    ]
+  },
+  {
+    "name": "Classic Literature",
+    "description": "Notable literary works that have stood the test of time.",
+    "subgenres": [
+      "Novels",
+      "Poetry",
+      "Plays"
+    ]
+  },
+  {
+    "name": "Young Adult (YA)",
+    "description": "Fiction focused on teenage protagonists, dealing with themes relevant to young adults.",
+    "subgenres": [
+      "Fantasy YA",
+      "Contemporary YA",
+      "Dystopian YA",
+      "Historical YA"
+    ]
+  },
+  {
+    "name": "Inspirational",
+    "description": "Genre that focuses on uplifting and motivational stories.",
+    "subgenres": [
+      "Christian Fiction",
+      "Self-Help",
+      "Spirituality"
+    ]
+  },
+  {
+    "name": "Sports",
+    "description": "Books focused on sports themes, including fiction and non-fiction.",
+    "subgenres": [
+      "Sports Biographies",
+      "Sports Fiction",
+      "Coaching Books"
+    ]
+  },
+  {
+    "name": "Historical Fiction",
+    "description": "Fictional stories set in the past, often incorporating true events and figures.",
+    "subgenres": [
+      "Biographical Historical Fiction",
+      "Alternative History",
+      "Historical Romance",
+      "Historical Mystery"
+    ]
+  },
+  {
+    "name": "Fantasy",
+    "description": "Fiction that includes magical or supernatural elements.",
+    "subgenres": [
+      "High Fantasy",
+      "Low Fantasy",
+      "Urban Fantasy",
+      "Dark Fantasy",
+      "Sword and Sorcery",
+      "Portal Fantasy"
+    ]
+  },
+  {
+    "name": "Mystery",
+    "description": "Fiction focused on solving a crime or unraveling secrets.",
+    "subgenres": [
+      "Cozy Mystery",
+      "Hard-Boiled Mystery",
+      "Detective Fiction",
+      "Psychological Thriller"
+    ]
+  },
+  {
+    "name": "Romance",
+    "description": "Stories centered around romantic relationships.",
+    "subgenres": [
+      "Contemporary Romance",
+      "Historical Romance",
+      "Romantic Suspense",
+      "Paranormal Romance",
+      "Erotic Romance"
+    ]
+  },
+  {
+    "name": "Horror",
+    "description": "Fiction intended to frighten, scare, or disturb.",
+    "subgenres": [
+      "Psychological Horror",
+      "Gothic Horror",
+      "Supernatural Horror",
+      "Body Horror",
+      "Slasher"
+    ]
+  },
+  {
+    "name": "Thriller",
+    "description": "Exciting fiction that often features suspense and high stakes.",
+    "subgenres": [
+      "Psychological Thriller",
+      "Spy Thriller",
+      "Technological Thriller",
+      "Political Thriller",
+      "Legal Thriller"
+    ]
+  },
+  {
+    "name": "Dystopian",
+    "description": "Fiction that portrays an imagined society characterized by oppression or environmental disaster.",
+    "subgenres": [
+      "Apocalyptic Fiction",
+      "Climate Fiction",
+      "Survival Fiction"
+    ]
+  },
+  {
+    "name": "Western",
+    "description": "Fiction set in the American West, typically during the late 19th to early 20th century.",
+    "subgenres": [
+      "Traditional Western",
+      "Contemporary Western",
+      "Western Romance"
+    ]
+  },
+  {
+    "name": "Futuristic",
+    "description": "Stories set in the future, often emphasizing science, technology, and evolving societies.",
+    "subgenres": [
+      "Space Romance",
+      "Future Tech",
+      "Cybernetics",
+      "Biopunk"
+    ]
+  },
+  {
+    "name": "Literary Fiction",
+    "description": "Fiction that focuses on character development and thematic depth.",
+    "subgenres": [
+      "Experimental Fiction",
+      "Magical Realism"
+    ]
+  },
+  {
+    "name": "Cookbooks",
+    "description": "Books containing recipes and cooking techniques.",
+    "subgenres": [
+      "Culinary Techniques",
+      "Regional Cuisine",
+      "Diet-Specific Cookbooks",
+      "Celebrity Chef Cookbooks"
+    ]
+  },
+  {
+    "name": "Self-Help",
+    "description": "Books aimed at personal improvement or problem-solving.",
+    "subgenres": [
+      "Motivational",
+      "Mental Health",
+      "Personal Finance",
+      "Lifestyle"
+    ]
+  },
+  {
+    "name": "True Crime",
+    "description": "Non-Fiction that examines actual criminal events and figures.",
+    "subgenres": [
+      "Historical True Crime",
+      "Modern True Crime",
+      "Criminal Psychology"
+    ]
+  },
+  {
+    "name": "Environmental Literature",
+    "description": "Books that focus on nature and environmental issues.",
+    "subgenres": [
+      "Nature Writing",
+      "Eco-fiction",
+      "Environmental Activism"
+    ]
+  },
+  {
+    "name": "Graphic Memoirs",
+    "description": "Memoirs presented in graphic novel format.",
+    "subgenres": [
+      "Personal Stories",
+      "Cultural Experiences",
+      "History Through Comics"
+    ]
+  },
+  {
+    "name": "Transmedia Storytelling",
+    "description": "Narratives that unfold across multiple platforms and formats.",
+    "subgenres": [
+      "Interactive Fiction",
+      "Alternate Reality Games"
+    ]
+  },
+  {
+    "name": "Music Literature",
+    "description": "Books focusing on music, musicians, and the impact of music.",
+    "subgenres": [
+      "Music Biography",
+      "Music History",
+      "Music Theory",
+      "Songwriting"
+    ]
+  },
+  {
+    "name": "Philosophy",
+    "description": "Literature exploring fundamental questions about existence, knowledge, and ethics.",
+    "subgenres": [
+      "Metaphysics",
+      "Ethics",
+      "Political Philosophy",
+      "Philosophical Fiction"
+    ]
+  },
+  {
+    "name": "Folklore & Mythology",
+    "description": "Collections of folktales, legends, and mythology from various cultures.",
+    "subgenres": [
+      "Fables",
+      "Urban Legends",
+      "Mythological Retellings",
+      "Fairy Tales"
+    ]
+  },
+  {
+    "name": "Graphic Fiction",
+    "description": "Fictional stories told through sequential art in comic or graphic novel format.",
+    "subgenres": [
+      "Historical Graphic Fiction",
+      "Fantasy Graphic Fiction",
+      "Realistic Graphic Fiction"
+    ]
+  },
+  {
+    "name": "Journal",
+    "description": "Personal accounts or thematic explorations in a diary or journal format.",
+    "subgenres": [
+      "Travel Journal",
+      "Art Journal",
+      "Reflective Journal"
+    ]
+  },
+  {
+    "name": "Asian Literature",
+    "description": "Literature originating from Asian cultures, often exploring diverse themes.",
+    "subgenres": [
+      "Japanese Literature",
+      "Chinese Literature",
+      "Indian Literature",
+      "Korean Literature"
+    ]
+  },
+  {
+    "name": "Narrative Non-Fiction",
+    "description": "Factual stories told with narrative techniques similar to fiction.",
+    "subgenres": [
+      "Literary Journalism",
+      "Creative Non-Fiction",
+      "Immersive Journalism"
+    ]
+  },
+  {
+    "name": "Parenting",
+    "description": "Books that offer guidance and wisdom on parenting.",
+    "subgenres": [
+      "Parenting Advice",
+      "Positive Parenting",
+      "Single Parenting",
+      "Cultural Parenting"
+    ]
+  },
+  {
+    "name": "Religion & Spirituality",
+    "description": "Literature exploring faith, spirituality, and religious beliefs.",
+    "subgenres": [
+      "Spiritual Growth",
+      "Religious Studies",
+      "Comparative Religion",
+      "Devotional Literature"
+    ]
+  },
+  {
+    "name": "Memoir",
+    "description": "A collection of memories that an individual writes about moments or events.",
+    "subgenres": [
+      "Celebrity Memoir",
+      "Cultural Memoir",
+      "Travel Memoir",
+      "Food Memoir"
+    ]
+  },
+  {
+    "name": "Humor",
+    "description": "Literature designed to amuse and entertain.",
+    "subgenres": [
+      "Satire",
+      "Comic Fiction",
+      "Parody",
+      "Humorous Essays"
+    ]
+  },
+  {
+    "name": "Science",
+    "description": "Non-fiction literature that explores scientific concepts and discoveries.",
+    "subgenres": [
+      "Popular Science",
+      "Science Education",
+      "Nature & Environment",
+      "Space Exploration"
+    ]
+  },
+  {
+    "name": "Technology",
+    "description": "Literature focusing on technology trends and advancements.",
+    "subgenres": [
+      "Tech Biographies",
+      "Tech History",
+      "Futurism",
+      "Cybersecurity"
+    ]
+  },
+  {
+    "name": "Experimental Fiction",
+    "description": "Fiction that breaks conventional narrative structures and styles.",
+    "subgenres": [
+      "Stream of Consciousness",
+      "Metafiction",
+      "Nonlinear Narrative"
+    ]
+  },
+  {
+    "name": "Cultural Criticism",
+    "description": "Analysis and critique of culture and its impact on society.",
+    "subgenres": [
+      "Media Criticism",
+      "Art Criticism",
+      "Literary Criticism"
+    ]
+  },
+  {
+    "name": "Anthropology",
+    "description": "Books exploring human societies, cultures, and their development.",
+    "subgenres": [
+      "Cultural Anthropology",
+      "Archaeological Studies",
+      "Social Anthropology"
+    ]
+  },
+  {
+    "name": "Historical Romance",
+    "description": "Romance novels set in a specific historical context.",
+    "subgenres": [
+      "Victorian Romance",
+      "Regency Romance",
+      "Medieval Romance"
+    ]
+  },
+  {
+    "name": "Medical Literature",
+    "description": "Books focusing on medicine, healthcare, and related subjects.",
+    "subgenres": [
+      "Medical Memoir",
+      "Medical History",
+      "Medical Textbooks"
+    ]
+  },
+  {
+    "name": "Culinary Literature",
+    "description": "Books about food, cooking, and culinary traditions.",
+    "subgenres": [
+      "Food History",
+      "Food Culture",
+      "Culinary Techniques"
+    ]
+  },
+  {
+    "name": "Post-Colonial Literature",
+    "description": "Literature that responds to the legacy of colonialism.",
+    "subgenres": [
+      "Decolonial Studies",
+      "Narratives from Former Colonies"
+    ]
+  },
+  {
+    "name": "Cyber Fiction",
+    "description": "Speculative fiction focusing on the implications of technology and the internet.",
+    "subgenres": [
+      "Cyberpunk",
+      "Digital Dystopia",
+      "Post-Internet Fiction"
+    ]
+  },
+  {
+    "name": "Western Literature",
+    "description": "Books focused on themes prevalent in traditional Western narratives.",
+    "subgenres": [
+      "Pioneering Novels",
+      "Western Mysteries",
+      "Outdoor Adventure"
+    ]
+  },
+  {
+    "name": "Nature Writing",
+    "description": "Literature that explores the natural world and human interaction with it.",
+    "subgenres": [
+      "Environmental Essays",
+      "Nature Memoirs",
+      "Nature Poetry"
+    ]
+  },
+  {
+    "name": "Classic Horror",
+    "description": "Horror literature that has endured through the years as significant works.",
+    "subgenres": [
+      "Gothic Horror",
+      "Lovecraftian Horror",
+      "Victorian Horror"
+    ]
+  },
+  {
+    "name": "Young Adult Fantasy",
+    "description": "Fantasy literature targeted at a teenage audience.",
+    "subgenres": [
+      "Epic Fantasy for YA",
+      "Young Adult Urban Fantasy",
+      "YA Paranormal"
+    ]
+  },
+  {
+    "name": "Historical Mystery",
+    "description": "Mystery novels set in historical contexts.",
+    "subgenres": [
+      "Cozy Historical Mysteries",
+      "Hard-Boiled Historical Mysteries"
+    ]
+  },
+  {
+    "name": "Experimental Poetry",
+    "description": "Poetry that goes beyond traditional structures and forms.",
+    "subgenres": [
+      "Concrete Poetry",
+      "Visual Poetry",
+      "Performance Poetry"
+    ]
+  },
+  {
+    "name": "Global Literature",
+    "description": "Literature from a variety of cultures, providing international perspectives.",
+    "subgenres": [
+      "Translated Works",
+      "World Literature in English"
+    ]
+  },
+  {
+    "name": "Children's Fantasy",
+    "description": "Fantasy literature specifically aimed at children.",
+    "subgenres": [
+      "Fairy Tales",
+      "Animal Fantasy",
+      "Middle-Grade Fantasy"
+    ]
+  },
+  {
+    "name": "Military Fiction",
+    "description": "Literature that focuses on military themes and experiences.",
+    "subgenres": [
+      "War Novels",
+      "Military Science Fiction",
+      "Historical Military"
+    ]
+  },
+  {
+    "name": "Supernatural Fiction",
+    "description": "Fiction that includes supernatural elements like ghosts and otherworldly beings.",
+    "subgenres": [
+      "Paranormal Romance",
+      "Occult Fiction",
+      "Supernatural Thrillers"
+    ]
+  },
+  {
+    "name": "Twisted Fairy Tales",
+    "description": "Reimagined versions of classic fairy tales with darker or unusual themes.",
+    "subgenres": [
+      "Darker Fairy Tales",
+      "Modern Fairy Tales"
+    ]
+  },
+  {
+    "name": "Eco-Fiction",
+    "description": "Fiction that addresses environmental issues and ecological themes.",
+    "subgenres": [
+      "Climate Fiction",
+      "Nature-Inspired Fiction"
+    ]
+  },
+  {
+    "name": "Bipolar Literature",
+    "description": "Literature that explores themes related to bipolar disorder.",
+    "subgenres": [
+      "Personal Accounts",
+      "Fictional Representations"
+    ]
+  },
+  {
+    "name": "Concise Literature",
+    "description": "Literature that focuses on brevity and succinctness.",
+    "subgenres": [
+      "Flash Fiction",
+      "Short Shorts",
+      "Micro Poetry"
+    ]
+  },
+  {
+    "name": "Sociology",
+    "description": "Books exploring social behavior and society.",
+    "subgenres": [
+      "Social Theory",
+      "Community Studies",
+      "Urban Sociology"
+    ]
+  },
+  {
+    "name": "Visual Literature",
+    "description": "Literature that emphasizes visual elements alongside words.",
+    "subgenres": [
+      "Photo Essays",
+      "Illustrated Novels",
+      "Art Books"
+    ]
+  },
+  {
+    "name": "Crime Fiction",
+    "description": "Fiction focused on criminal acts and investigations.",
+    "subgenres": [
+      "Police Procedurals",
+      "Cozy Mysteries",
+      "Hard-Boiled"
+    ]
+  },
+  {
+    "name": "Philosophical Fiction",
+    "description": "Fiction that explores philosophical ideas and questions.",
+    "subgenres": [
+      "Existential Fiction",
+      "Absurdist Fiction",
+      "Metaphysical Fiction"
+    ]
+  },
+  {
+    "name": "Satirical Literature",
+    "description": "Literature that uses humor, irony, and exaggeration to critique society.",
+    "subgenres": [
+      "Political Satire",
+      "Social Satire",
+      "Parody"
+    ]
+  },
+  {
+    "name": "Rural Literature",
+    "description": "Literature that explores rural settings and themes.",
+    "subgenres": [
+      "Country Fiction",
+      "Pastoral Literature",
+      "Rural Mysteries"
+    ]
+  },
+  {
+    "name": "Meditative Literature",
+    "description": "Literature that inspires reflection and contemplation.",
+    "subgenres": [
+      "Philosophical Essays",
+      "Spiritual Reflections"
+    ]
+  },
+  {
+    "name": "Time Travel Fiction",
+    "description": "Fiction that involves traveling through time.",
+    "subgenres": [
+      "Historical Time Travel",
+      "Future Time Travel",
+      "Time-bending Mysteries"
+    ]
+  },
+  {
+    "name": "Folklore Studies",
+    "description": "Research-oriented literature on folklore and cultural traditions.",
+    "subgenres": [
+      "Cultural Folklore",
+      "Comparative Folklore"
+    ]
+  },
+  {
+    "name": "Literary Theory",
+    "description": "Explorations and analyses of literature and its various interpretations.",
+    "subgenres": [
+      "Structuralism",
+      "Post-Structuralism",
+      "Formalism"
+    ]
+  }
+]

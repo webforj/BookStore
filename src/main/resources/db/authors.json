@@ -1,0 +1,580 @@
+[
+  {
+    "name": "L. E. Modesitt Jr.",
+    "birth_date": "October 19, 1943",
+    "nationality": "American",
+    "profession": "Novelist",
+    "notable_works": [
+      "The Saga of Recluce",
+      "The Imager Portfolio",
+      "The Forever Hero"
+    ],
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "impact": "Modesitt's works discuss complex themes of morality, politics, and economics, influencing the development of modern fantasy and speculative fiction.",
+    "influences": [
+      "J.R.R. Tolkien",
+      "Raymond E. Feist",
+      "Isaac Asimov"
+    ]
+  },
+  {
+    "name": "David Brin",
+    "birth_date": "October 6, 1950",
+    "nationality": "American",
+    "profession": "Science Fiction Writer",
+    "notable_works": [
+      "Startide Rising",
+      "The Uplift War",
+      "Earth"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "impact": "Brin's Uplift series has contributed to discussions about the ethics of genetic engineering and artificial intelligence, influencing both literature and scientific thought.",
+    "influences": [
+      "Arthur C. Clarke",
+      "Isaac Asimov",
+      "Robert A. Heinlein"
+    ]
+  },
+  {
+    "name": "Harper Lee",
+    "birth_date": "April 28, 1926",
+    "death_date": "February 19, 2016",
+    "nationality": "American",
+    "profession": "Novelist",
+    "notable_works": [
+      "To Kill a Mockingbird",
+      "Go Set a Watchman"
+    ],
+    "genres": [
+      "Southern Gothic",
+      "Coming-of-age"
+    ],
+    "impact": "Lee's exploration of racial injustice and moral growth profoundly impacted American literature and civil rights discourse.",
+    "influences": [
+      "Mark Twain",
+      "William Faulkner",
+      "Zora Neale Hurston"
+    ]
+  },
+  {
+    "name": "Isaac Asimov",
+    "birth_date": "January 2, 1920",
+    "death_date": "April 6, 1992",
+    "nationality": "American",
+    "profession": "Science Fiction Writer, Biochemist",
+    "notable_works": [
+      "Foundation Series",
+      "Robot Series",
+      "I, Robot"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Popular Science"
+    ],
+    "impact": "Asimov's ideas about robotics, artificial intelligence, and sociology have shaped modern science fiction and inspired advancements in technology.",
+    "influences": [
+      "H.G. Wells",
+      "Jules Verne",
+      "Robert A. Heinlein"
+    ]
+  },
+  {
+    "name": "Stephen Hawking",
+    "birth_date": "January 8, 1942",
+    "death_date": "March 14, 2018",
+    "nationality": "British",
+    "profession": "Theoretical Physicist, Cosmologist, Author",
+    "notable_works": [
+      "A Brief History of Time",
+      "The Universe in a Nutshell",
+      "The Grand Design"
+    ],
+    "fields_of_study": [
+      "Theoretical Physics",
+      "Cosmology"
+    ],
+    "impact": "Hawking's work on black holes and cosmology popularized complex scientific concepts, inspiring public interest in science and advancing our understanding of the universe.",
+    "influences": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Richard Feynman"
+    ]
+  },
+  {
+    "name": "Carl Sagan",
+    "birth_date": "November 9, 1934",
+    "death_date": "December 20, 1996",
+    "nationality": "American",
+    "profession": "Astronomer, Astrophysicist, Author, Science Communicator",
+    "notable_works": [
+      "Cosmos",
+      "The Pale Blue Dot",
+      "Contact",
+      "Broca's Brain"
+    ],
+    "fields_of_study": [
+      "Astronomy",
+      "Planetary Science",
+      "Astrobiology"
+    ],
+    "impact": "Sagan played a crucial role in popularizing science and fostering a public appreciation for the cosmos. His ability to communicate complex scientific ideas in an accessible manner inspired generations of scientists and enthusiasts.",
+    "influences": [
+      "Giovanni Schiaparelli",
+      "Carl Friedrich Gauss",
+      "Isaac Asimov",
+      "Richard Feynman",
+      "Jane Goodall"
+    ]
+  },
+  {
+    "name": "Raymond Chandler",
+    "birth_date": "July 23, 1888",
+    "death_date": "March 26, 1959",
+    "nationality": "American",
+    "profession": "Novelist, Screenwriter",
+    "notable_works": [
+      "The Big Sleep",
+      "Farewell, My Lovely",
+      "The Long Goodbye"
+    ],
+    "genres": [
+      "Hard-Boiled Detective Fiction",
+      "Crime Fiction"
+    ],
+    "impact": "Chandler is credited with establishing the hard-boiled detective genre, influencing both literature and film noir.",
+    "influences": [
+      "Dashiell Hammett",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald"
+    ]
+  },
+  {
+    "name": "Aldous Huxley",
+    "birth_date": "July 26, 1894",
+    "death_date": "November 22, 1963",
+    "nationality": "British",
+    "profession": "Novelist, Essayist",
+    "notable_works": [
+      "Brave New World",
+      "Island",
+      "The Doors of Perception"
+    ],
+    "genres": [
+      "Dystopian Fiction",
+      "Philosophical Fiction"
+    ],
+    "impact": "Huxley’s works critique modern society and explore themes of ethics, technology, and individuality.",
+    "influences": [
+      "George Orwell",
+      "Friedrich Nietzsche",
+      "Thomas More"
+    ]
+  },
+  {
+    "name": "Robert A. Heinlein",
+    "birth_date": "July 7, 1907",
+    "death_date": "May 8, 1988",
+    "nationality": "American",
+    "profession": "Science Fiction Writer",
+    "notable_works": [
+      "Stranger in a Strange Land",
+      "Starship Troopers",
+      "The Moon is a Harsh Mistress"
+    ],
+    "genres": [
+      "Science Fiction"
+    ],
+    "impact": "Heinlein was a major figure in science fiction who introduced ideas about individualism and personal freedom.",
+    "influences": [
+      "H.G. Wells",
+      "Isaac Asimov",
+      "L. Sprague de Camp"
+    ]
+  },
+  {
+    "name": "Ray Bradbury",
+    "birth_date": "August 22, 1920",
+    "death_date": "June 5, 2012",
+    "nationality": "American",
+    "profession": "Writer, Screenwriter",
+    "notable_works": [
+      "Fahrenheit 451",
+      "The Martian Chronicles",
+      "Something Wicked This Way Comes"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Fantasy",
+      "Horror"
+    ],
+    "impact": "Bradbury inspired readers to think critically about the future and the role of technology in society.",
+    "influences": [
+      "Edgar Allan Poe",
+      "H.G. Wells",
+      "Mark Twain"
+    ]
+  },
+  {
+    "name": "Orson Scott Card",
+    "birth_date": "August 24, 1951",
+    "nationality": "American",
+    "profession": "Author, Critic",
+    "notable_works": [
+      "Ender's Game",
+      "Speaker for the Dead",
+      "The Pathfinder series"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "impact": "Card's exploration of complex moral and ethical dilemmas in 'Ender's Game' has influenced both readers and writers in the science fiction genre.",
+    "influences": [
+      "Isaac Asimov",
+      "Robert A. Heinlein",
+      "C.S. Lewis"
+    ]
+  },
+  {
+    "name": "Arthur Conan Doyle",
+    "birth_date": "May 22, 1859",
+    "death_date": "July 7, 1930",
+    "nationality": "British",
+    "profession": "Novelist, Physician",
+    "notable_works": [
+      "A Study in Scarlet",
+      "The Hound of the Baskervilles",
+      "The Adventures of Sherlock Holmes"
+    ],
+    "genres": [
+      "Mystery",
+      "Historical Fiction",
+      "Science Fiction"
+    ],
+    "impact": "Doyle popularized the detective fiction genre through the creation of Sherlock Holmes, influencing countless authors and adaptations.",
+    "influences": [
+      "Edgar Allan Poe",
+      "Wilkie Collins",
+      "Charles Dickens"
+    ]
+  },
+  {
+    "name": "J. R. R. Tolkien",
+    "birth_date": "January 3, 1892",
+    "death_date": "September 2, 1973",
+    "nationality": "British",
+    "profession": "Novelist, Philologist",
+    "notable_works": [
+      "The Hobbit",
+      "The Lord of the Rings",
+      "The Silmarillion"
+    ],
+    "genres": [
+      "Fantasy",
+      "High Fantasy"
+    ],
+    "impact": "Tolkien is regarded as the father of modern fantasy literature, creating an entire mythos that has shaped and defined the genre.",
+    "influences": [
+      "William Morris",
+      "Beowulf",
+      "Norse Mythology"
+    ]
+  },
+  {
+    "name": "Keay Davidson",
+    "birth_date": "April 18, 1944",
+    "nationality": "American",
+    "profession": "Author, Journalist",
+    "notable_works": [
+      "The Lost World of Charles Darwin",
+      "The Ordeal of the American West"
+    ],
+    "genres": [
+      "Biography",
+      "Non-Fiction"
+    ],
+    "impact": "Davidson's biographical works shine a light on underappreciated historical figures and contexts, promoting deeper understanding of their contributions.",
+    "influences": [
+      "Charles Darwin",
+      "John Steinbeck",
+      "Marc Bloch"
+    ]
+  },
+  {
+    "name": "Voltaire",
+    "full_name": "François-Marie Arouet",
+    "birth_date": "November 21, 1694",
+    "death_date": "May 30, 1778",
+    "nationality": "French",
+    "profession": "Writer, Philosopher",
+    "notable_works": [
+      "Candide",
+      "Zadig",
+      "Philosophical Dictionary"
+    ],
+    "genres": [
+      "Philosophical Fiction",
+      "Satire"
+    ],
+    "impact": "Voltaire was a leading figure of the Enlightenment, advocating for civil liberties, freedom of speech, and separation of church and state.",
+    "influences": [
+      "John Locke",
+      "Isaac Newton",
+      "Rene Descartes"
+    ]
+  },
+  {
+    "name": "Ernest Hemingway",
+    "birth_date": "July 21, 1899",
+    "death_date": "July 2, 1961",
+    "nationality": "American",
+    "profession": "Novelist, Short Story Writer",
+    "notable_works": [
+      "The Old Man and the Sea",
+      "A Farewell to Arms",
+      "For Whom the Bell Tolls"
+    ],
+    "genres": [
+      "Fiction",
+      "War Literature"
+    ],
+    "impact": "Hemingway's writing style, characterized by economy and understated emotion, influenced 20th-century literature and narrative techniques.",
+    "influences": [
+      "Mark Twain",
+      "F. Scott Fitzgerald",
+      "James Joyce"
+    ]
+  },
+  {
+    "name": "Octavia E. Butler",
+    "birth_date": "June 22, 1947",
+    "death_date": "February 24, 2006",
+    "nationality": "American",
+    "profession": "Science Fiction Writer",
+    "notable_works": [
+      "Kindred",
+      "Patternmaster",
+      "Parable of the Sower"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Speculative Fiction"
+    ],
+    "impact": "Butler's exploration of race, gender, and social issues in her works has significantly influenced science fiction, expanding its boundaries to include diverse voices.",
+    "influences": [
+      "George Orwell",
+      "Kurt Vonnegut",
+      "Samuel R. Delany"
+    ]
+  },
+  {
+    "name": "George Orwell",
+    "birth_name": "Eric Arthur Blair",
+    "birth_date": "June 25, 1903",
+    "death_date": "January 21, 1950",
+    "nationality": "British",
+    "profession": "Novelist, Essayist, Journalist",
+    "notable_works": [
+      "Animal Farm",
+      "Nineteen Eighty-Four",
+      "Homage to Catalonia"
+    ],
+    "genres": [
+      "Dystopian Fiction",
+      "Political Fiction"
+    ],
+    "impact": "Orwell's works, particularly '1984' and 'Animal Farm', have had a profound impact on political thought and are widely regarded as critiques of totalitarianism.",
+    "influences": [
+      "H.G. Wells",
+      "Aldous Huxley",
+      "D.H. Lawrence"
+    ]
+  },
+  {
+    "name": "Dashiell Hammett",
+    "birth_date": "May 27, 1894",
+    "death_date": "January 10, 1961",
+    "nationality": "American",
+    "profession": "Novelist, Screenwriter",
+    "notable_works": [
+      "The Maltese Falcon",
+      "The Thin Man",
+      "Red Harvest"
+    ],
+    "genres": [
+      "Hard-Boiled Detective Fiction",
+      "Mystery"
+    ],
+    "impact": "Hammett is regarded as a pioneer of hard-boiled detective fiction, establishing conventions that would shape the genre for decades.",
+    "influences": [
+      "Raymond Chandler",
+      "Ernest Hemingway",
+      "Edgar Allan Poe"
+    ]
+  },
+  {
+    "name": "Agatha Christie",
+    "birth_date": "September 15, 1890",
+    "death_date": "January 12, 1976",
+    "nationality": "British",
+    "profession": "Novelist, Playwright",
+    "notable_works": [
+      "Murder on the Orient Express",
+      "And Then There Were None",
+      "The Mousetrap"
+    ],
+    "genres": [
+      "Mystery",
+      "Crime Fiction"
+    ],
+    "impact": "Christie is one of the best-selling authors of all time, known for her intricate plots and memorable characters, particularly Hercule Poirot and Miss Marple.",
+    "influences": [
+      "Sir Arthur Conan Doyle",
+      "Wilkie Collins",
+      "Edgar Allan Poe"
+    ]
+  },
+  {
+    "name": "Alan Dean Foster",
+    "birth_date": "November 18, 1946",
+    "nationality": "American",
+    "profession": "Novelist, Screenwriter",
+    "notable_works": [
+      "The Taken Trilogy",
+      "Logan's Run",
+      "Star Wars: From the Adventures of Luke Skywalker"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Fantasy",
+      "Movie Novelizations"
+    ],
+    "impact": "Foster's ability to create expansive worlds and elaborate stories has enriched the science fiction and fantasy genres, particularly in novel adaptations.",
+    "influences": [
+      "Jules Verne",
+      "Isaac Asimov",
+      "Arthur C. Clarke"
+    ]
+  },
+  {
+    "name": "Stephen Hawking",
+    "birth_date": "January 8, 1942",
+    "death_date": "March 14, 2018",
+    "nationality": "British",
+    "profession": "Theoretical Physicist, Cosmologist, Author",
+    "notable_works": [
+      "A Brief History of Time",
+      "The Universe in a Nutshell",
+      "The Grand Design"
+    ],
+    "fields_of_study": [
+      "Theoretical Physics",
+      "Cosmology"
+    ],
+    "impact": "Hawking popularized complex scientific concepts and theories, fostering public interest in cosmology and theoretical physics.",
+    "influences": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Richard Feynman"
+    ]
+  },
+  {
+    "name": "H. L. Mencken",
+    "full_name": "Henry Louis Mencken",
+    "birth_date": "September 12, 1880",
+    "death_date": "January 29, 1956",
+    "nationality": "American",
+    "profession": "Journalist, Essayist, Critic",
+    "notable_works": [
+      "The Sage of Baltimore",
+      "Prejudices: First Series",
+      "A Mencken Chrestomathy"
+    ],
+    "genres": [
+      "Satire",
+      "Social Commentary",
+      "Criticism"
+    ],
+    "impact": "Mencken was a leading critic of American society and culture, known for his wit and provocative opinions.",
+    "influences": [
+      "Mark Twain",
+      "Friedrich Nietzsche",
+      "Henry Adams"
+    ]
+  },
+  {
+    "name": "Mark Twain",
+    "birth_name": "Samuel Langhorne Clemens",
+    "birth_date": "November 30, 1835",
+    "death_date": "April 21, 1910",
+    "nationality": "American",
+    "profession": "Writer, Humorist",
+    "notable_works": [
+      "The Adventures of Tom Sawyer",
+      "Adventures of Huckleberry Finn",
+      "The Prince and the Pauper"
+    ],
+    "genres": [
+      "Fiction",
+      "Satire",
+      "Humor"
+    ],
+    "impact": "Twain is celebrated as one of America's greatest writers, known for his sharp social commentary and vivid characters.",
+    "influences": [
+      "Herman Melville",
+      "Charles Dickens",
+      "Henry James"
+    ]
+  },
+  {
+    "name": "H. G. Wells",
+    "birth_date": "September 21, 1866",
+    "death_date": "August 13, 1946",
+    "nationality": "British",
+    "profession": "Novelist, Social Commentator",
+    "notable_works": [
+      "The Time Machine",
+      "The War of the Worlds",
+      "The Invisible Man"
+    ],
+    "genres": [
+      "Science Fiction",
+      "Social Commentary"
+    ],
+    "impact": "Wells is considered a pioneer of modern science fiction, blending scientific ideas with social critique.",
+    "influences": [
+      "Jules Verne",
+      "Edgar Allan Poe",
+      "Herbert George Wells"
+    ]
+  },
+  {
+    "name": "Robert E. Howard",
+    "birth_date": "January 22, 1906",
+    "death_date": "June 11, 1936",
+    "nationality": "American",
+    "profession": "Writer",
+    "notable_works": [
+      "Conan the Barbarian",
+      "Kull the Conqueror",
+      "Solomon Kane"
+    ],
+    "genres": [
+      "Fantasy",
+      "Sword and Sorcery",
+      "Horror"
+    ],
+    "impact": "Howard is credited with creating the sword and sorcery subgenre and is known for his heroic fantasy tales.",
+    "influences": [
+      "H. G. Wells",
+      "Arthur Machen",
+      "Edgar Rice Burroughs"
+    ]
+  }
+]

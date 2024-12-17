@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: BookStore
+data-loader:
+  books-source: classpath:db/books.json
+  authors-source: classpath:db/authors.json
+
+
+
+logging:
+  level:
+    org:
+      springframework:
+        context:
+          annotation: warn

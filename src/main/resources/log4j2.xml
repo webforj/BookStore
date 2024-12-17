@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" monitorInterval="30">
+  <Properties>
+    <Property name="LOG_PATTERN">%d{yyyy/MM/dd HH:mm:ss,SSS} %X{callerInformation} %r [%-6p] [%t] %c{1.}.%M(%F:%L) - %m%n
+    </Property>
+    <Property name="APP_LOG_ROOT">${sys:user.home:-/var}/logs</Property>
+
+  </Properties>
+  <Appenders>
+    <Console name="CONSOLE">
+      <PatternLayout pattern="${LOG_PATTERN}"/>
+    </Console>
+
+    <RollingFile name="file"
+                 fileName="${APP_LOG_ROOT}/com-webforj-bookstore-application.log"
+                 filePattern="${APP_LOG_ROOT}/com-webforj-bookstore--%d{yyyy-MM-dd}-%i.log"
+                 createOnDemand="true"
+    >
+      <PatternLayout pattern="${LOG_PATTERN}"/>
+      <Policies>
+        <SizeBasedTriggeringPolicy size="19500KB"/>
+      </Policies>
+      <DefaultRolloverStrategy max="1"/>
+    </RollingFile>
+
+  </Appenders>
+  <Loggers>
+    <Root level="debug" additivity="false">
+      <AppenderRef ref="file"/>
+      <AppenderRef ref="CONSOLE"/>
+    </Root>
+    <Logger name="io.netty" level="error" additivity="false">
+      <AppenderRef ref="CONSOLE"/>
+    </Logger>
+    <Logger name="com.webforj" level="debug" additivity="false">
+      <AppenderRef ref="CONSOLE"/>
+    </Logger>
+    <Logger name="org.hibernate" level="warn" additivity="false">
+      <AppenderRef ref="file"/>
+      <AppenderRef ref="CONSOLE"/>
+    </Logger>
+    <Logger name="org.springframework" level="info" additivity="false">
+      <AppenderRef ref="file"/>
+      <AppenderRef ref="CONSOLE"/>
+    </Logger>
+    <Logger name="org.springframework.context" level="warn" additivity="false">
+      <AppenderRef ref="file"/>
+      <AppenderRef ref="CONSOLE"/>
+    </Logger>
+
+  </Loggers>
+</Configuration>

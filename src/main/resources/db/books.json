@@ -1,0 +1,2176 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "Southern Gothic",
+      "Bildungsroman"
+    ],
+    "publisher": "J.B. Lippincott & Co.",
+    "isbn": "978-0-06-112008-4",
+    "year_published": 1960
+  },
+  {
+    "title": "Go Set a Watchman",
+    "author": "Harper Lee",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "Literary Fiction"
+    ],
+    "publisher": "HarperCollins",
+    "isbn": "978-0-06-240985-0",
+    "year_published": 2015
+  },
+  {
+    "title": "Stranger in a Strange Land",
+    "author": "Robert A. Heinlein",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "G.P. Putnam's Sons",
+    "isbn": "978-0-441-17271-9",
+    "year_published": 1961
+  },
+  {
+    "title": "Starship Troopers",
+    "author": "Robert A. Heinlein",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Military Science Fiction"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "isbn": "978-0-7434-9827-8",
+    "year_published": 1959
+  },
+  {
+    "title": "The Moon is a Harsh Mistress",
+    "author": "Robert A. Heinlein",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "G.P. Putnam's Sons",
+    "isbn": "978-0-312-03614-0",
+    "year_published": 1966
+  },
+  {
+    "title": "The Puppet Masters",
+    "author": "Robert A. Heinlein",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "G.P. Putnam's Sons",
+    "isbn": "978-0-345-33012-9",
+    "year_published": 1951
+  },
+  {
+    "title": "Time Enough for Love",
+    "author": "Robert A. Heinlein",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Putnam",
+    "isbn": "978-0-425-12154-1",
+    "year_published": 1973
+  },
+  {
+    "title": "Tunnel in the Sky",
+    "author": "Robert A. Heinlein",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "G.P. Putnam's Sons",
+    "isbn": "978-0-441-16722-7",
+    "year_published": 1955
+  },
+  {
+    "title": "Have Space Suit—Will Travel",
+    "author": "Robert A. Heinlein",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "isbn": "978-0-312-02712-4",
+    "year_published": 1958
+  },
+  {
+    "title": "The Door Into Summer",
+    "author": "Robert A. Heinlein",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Time Travel"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "isbn": "978-0-441-17264-1",
+    "year_published": 1957
+  },
+  {
+    "title": "Citizenship Suite",
+    "author": "Robert A. Heinlein",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Baen Books",
+    "isbn": "978-1-4516-0648-8",
+    "year_published": 1989
+  },
+  {
+    "title": "The Cat Who Walks Through Walls",
+    "author": "Robert A. Heinlein",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Putnam",
+    "isbn": "978-0-345-30506-7",
+    "year_published": 1985
+  },
+  {
+    "title": "Friday",
+    "author": "Robert A. Heinlein",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Putnam",
+    "isbn": "978-0-441-00081-2",
+    "year_published": 1982
+  },
+  {
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "Adventure"
+    ],
+    "publisher": "Chatto & Windus",
+    "isbn": "978-0-14-243680-9",
+    "year_published": 1876
+  },
+  {
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "Adventure"
+    ],
+    "publisher": "Charles L. Webster And Company",
+    "isbn": "978-0-14-243717-2",
+    "year_published": 1884
+  },
+  {
+    "title": "The Prince and the Pauper",
+    "author": "Mark Twain",
+    "language": "English",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "publisher": "Harpers",
+    "isbn": "978-0-14-243724-0",
+    "year_published": 1881
+  },
+  {
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "author": "Mark Twain",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "Historical Fiction",
+      "Satire"
+    ],
+    "publisher": "Charles L. Webster And Company",
+    "isbn": "978-0-14-243725-7",
+    "year_published": 1889
+  },
+  {
+    "title": "The Innocents Abroad",
+    "author": "Mark Twain",
+    "language": "English",
+    "genres": [
+      "Travel",
+      "Humor"
+    ],
+    "publisher": "American Publishing Company",
+    "isbn": "978-0-14-243747-9",
+    "year_published": 1869
+  },
+  {
+    "title": "The Mysterious Stranger",
+    "author": "Mark Twain",
+    "language": "English",
+    "genres": [
+      "Philosophical Fiction"
+    ],
+    "publisher": "The American Publishing Company",
+    "isbn": "978-0-14-243724-0",
+    "year_published": 1916
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "language": "English",
+    "genres": [
+      "Popular Science",
+      "Non-fiction"
+    ],
+    "publisher": "Bantam Books",
+    "isbn": "978-0-553-17521-9",
+    "year_published": 1988
+  },
+  {
+    "title": "The Universe in a Nutshell",
+    "author": "Stephen Hawking",
+    "language": "English",
+    "genres": [
+      "Popular Science"
+    ],
+    "publisher": "Bantam Books",
+    "isbn": "978-0-553-38016-3",
+    "year_published": 2001
+  },
+  {
+    "title": "The Grand Design",
+    "author": "Stephen Hawking and Leonard Mlodinow",
+    "language": "English",
+    "genres": [
+      "Popular Science",
+      "Non-fiction"
+    ],
+    "publisher": "Bantam Books",
+    "isbn": "978-0-553-80536-8",
+    "year_published": 2010
+  },
+  {
+    "title": "The Theory of Everything: The Origin and Fate of the Universe",
+    "author": "Stephen Hawking",
+    "language": "English",
+    "genres": [
+      "Popular Science"
+    ],
+    "publisher": "Harvard University Press",
+    "isbn": "978-0-674-00774-5",
+    "year_published": 2002
+  },
+  {
+    "title": "Black Holes and Baby Universes and Other Essays",
+    "author": "Stephen Hawking",
+    "language": "English",
+    "genres": [
+      "Popular Science",
+      "Essays"
+    ],
+    "publisher": "Bantam Books",
+    "isbn": "978-0-553-10341-2",
+    "year_published": 1993
+  },
+  {
+    "title": "Brief Answers to the Big Questions",
+    "author": "Stephen Hawking",
+    "language": "English",
+    "genres": [
+      "Popular Science",
+      "Non-fiction"
+    ],
+    "publisher": "John Murray",
+    "isbn": "978-0-7535-4619-7",
+    "year_published": 2018
+  },
+  {
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "language": "English",
+    "genres": [
+      "Popular Science"
+    ],
+    "publisher": "Random House",
+    "isbn": "978-0-345-30316-7",
+    "year_published": 1980
+  },
+  {
+    "title": "Pale Blue Dot: A Vision of the Human Future in Space",
+    "author": "Carl Sagan",
+    "language": "English",
+    "genres": [
+      "Popular Science",
+      "Non-fiction"
+    ],
+    "publisher": "Random House",
+    "isbn": "978-0-345-37860-0",
+    "year_published": 1994
+  },
+  {
+    "title": "The Demon-Haunted World: Science as a Candle in the Dark",
+    "author": "Carl Sagan",
+    "language": "English",
+    "genres": [
+      "Popular Science",
+      "Skepticism"
+    ],
+    "publisher": "Random House",
+    "isbn": "978-0-345-40946-3",
+    "year_published": 1995
+  },
+  {
+    "title": "Contact",
+    "author": "Carl Sagan",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Novel"
+    ],
+    "publisher": "Simon & Schuster",
+    "isbn": "978-0-671-75068-2",
+    "year_published": 1985
+  },
+  {
+    "title": "The Varieties of Scientific Experience: A Personal View of the Search for God",
+    "author": "Carl Sagan",
+    "language": "English",
+    "genres": [
+      "Popular Science",
+      "Philosophy"
+    ],
+    "publisher": "Random House",
+    "isbn": "978-0-670-03278-4",
+    "year_published": 2006
+  },
+  {
+    "title": "Broca's Brain: Reflections on the Romance of Science",
+    "author": "Carl Sagan",
+    "language": "English",
+    "genres": [
+      "Popular Science",
+      "Essays"
+    ],
+    "publisher": "Ballantine Books",
+    "isbn": "978-0-345-34511-9",
+    "year_published": 1980
+  },
+  {
+    "title": "The Pale Blue Dot",
+    "author": "Carl Sagan",
+    "language": "English",
+    "genres": [
+      "Popular Science"
+    ],
+    "publisher": "Random House",
+    "isbn": "978-0-345-37765-9",
+    "year_published": 1994
+  },
+  {
+    "title": "Shadows of Forgotten Ancestors: A Search for Who We Are",
+    "author": "Carl Sagan and Ann Druyan",
+    "language": "English",
+    "genres": [
+      "Popular Science",
+      "Non-fiction"
+    ],
+    "publisher": "Ballantine Books",
+    "isbn": "978-0-345-35701-4",
+    "year_published": 1993
+  },
+  {
+    "title": "The Demon-Haunted World: Science as a Candle in the Dark",
+    "author": "Carl Sagan",
+    "language": "English",
+    "genres": [
+      "Popular Science"
+    ],
+    "publisher": "Random House",
+    "isbn": "978-0-345-40946-3",
+    "year_published": 1995
+  },
+  {
+    "title": "Cosmos: A Personal Journey",
+    "author": "Carl Sagan",
+    "language": "English",
+    "genres": [
+      "Popular Science"
+    ],
+    "publisher": "Random House",
+    "isbn": "978-0-553-34240-9",
+    "year_published": 1991
+  },
+  {
+    "title": "Carl Sagan: A Life",
+    "author": "Keay Davidson",
+    "language": "English",
+    "genres": [
+      "Biography"
+    ],
+    "publisher": "Wiley",
+    "isbn": "978-0-471-18608-6",
+    "year_published": 1999
+  },
+  {
+    "title": "Billions and Billions: Thoughts on Life and Death at the Brink of the Millennium",
+    "author": "Carl Sagan",
+    "language": "English",
+    "genres": [
+      "Popular Science",
+      "Non-fiction"
+    ],
+    "publisher": "Random House",
+    "isbn": "978-0-679-41920-7",
+    "year_published": 1997
+  },
+  {
+    "title": "Candide, or Optimism",
+    "author": "Voltaire",
+    "language": "French",
+    "genres": [
+      "Philosophical Satire",
+      "Fiction"
+    ],
+    "publisher": "Gabriel Cramoisy",
+    "isbn": "978-0-14-303620-0",
+    "year_published": 1759
+  },
+  {
+    "title": "Letters on England",
+    "author": "Voltaire",
+    "language": "French",
+    "genres": [
+      "Philosophy",
+      "Non-fiction"
+    ],
+    "publisher": "Marc Michel",
+    "isbn": "978-0-14-044305-6",
+    "year_published": 1734
+  },
+  {
+    "title": "Philosophical Dictionary",
+    "author": "Voltaire",
+    "language": "French",
+    "genres": [
+      "Philosophy",
+      "Non-fiction"
+    ],
+    "publisher": "Librairie de la Pleiade",
+    "isbn": "978-0-19-283188-9",
+    "year_published": 1764
+  },
+  {
+    "title": "Zadig, or The Book of Fate",
+    "author": "Voltaire",
+    "language": "French",
+    "genres": [
+      "Fiction",
+      "Philosophical Tale"
+    ],
+    "publisher": "Jacques Desbordes",
+    "isbn": "978-0-14-044427-5",
+    "year_published": 1747
+  },
+  {
+    "title": "The Age of Louis XIV",
+    "author": "Voltaire",
+    "language": "French",
+    "genres": [
+      "History",
+      "Non-fiction"
+    ],
+    "publisher": "John M. Dent",
+    "isbn": "978-1-59420-149-6",
+    "year_published": 1751
+  },
+  {
+    "title": "A Treatise on Tolerance",
+    "author": "Voltaire",
+    "language": "French",
+    "genres": [
+      "Philosophy",
+      "Non-fiction"
+    ],
+    "publisher": "Gérard Louis",
+    "isbn": "978-0-19-955477-7",
+    "year_published": 1763
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "Adventure"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "isbn": "978-0-684-80122-3",
+    "year_published": 1952
+  },
+  {
+    "title": "A Farewell to Arms",
+    "author": "Ernest Hemingway",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "War"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "isbn": "978-0-684-84324-5",
+    "year_published": 1929
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "Modernist"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "isbn": "978-0-684-80045-5",
+    "year_published": 1926
+  },
+  {
+    "title": "For Whom the Bell Tolls",
+    "author": "Ernest Hemingway",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "War"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "isbn": "978-0-684-84326-9",
+    "year_published": 1940
+  },
+  {
+    "title": "The Garden of Eden",
+    "author": "Ernest Hemingway",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "Modernist"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "isbn": "978-0-684-84318-4",
+    "year_published": 1986
+  },
+  {
+    "title": "To Have and Have Not",
+    "author": "Ernest Hemingway",
+    "language": "English",
+    "genres": [
+      "Fiction"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "isbn": "978-0-684-84445-7",
+    "year_published": 1937
+  },
+  {
+    "title": "The Complete Short Stories of Ernest Hemingway",
+    "author": "Ernest Hemingway",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "Short Stories"
+    ],
+    "publisher": "Scribner",
+    "isbn": "978-0-684-85305-1",
+    "year_published": 1987
+  },
+  {
+    "title": "The Snows of Kilimanjaro",
+    "author": "Ernest Hemingway",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "Short Stories"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "isbn": "978-0-684-84327-6",
+    "year_published": 1961
+  },
+  {
+    "title": "Islands in the Stream",
+    "author": "Ernest Hemingway",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "Novel"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "isbn": "978-0-684-84323-8",
+    "year_published": 1970
+  },
+  {
+    "title": "Across the River and Into the Trees",
+    "author": "Ernest Hemingway",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "Novel"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "isbn": "978-0-684-84334-4",
+    "year_published": 1950
+  },
+  {
+    "title": "The Moveable Feast",
+    "author": "Ernest Hemingway",
+    "language": "English",
+    "genres": [
+      "Memoir",
+      "Non-fiction"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "isbn": "978-0-684-84355-9",
+    "year_published": 1964
+  },
+  {
+    "title": "In Our Time",
+    "author": "Ernest Hemingway",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "Short Stories"
+    ],
+    "publisher": " Boni & Liveright",
+    "isbn": "978-0-684-84449-5",
+    "year_published": 1925
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "publisher": "Collins Crime Club",
+    "isbn": "978-0-006-20735-2",
+    "year_published": 1934
+  },
+  {
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "publisher": "Collins Crime Club",
+    "isbn": "978-0-006-20734-5",
+    "year_published": 1939
+  },
+  {
+    "title": "The Murder of Roger Ackroyd",
+    "author": "Agatha Christie",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "publisher": "William Collins, Sons",
+    "isbn": "978-0-00-712091-5",
+    "year_published": 1926
+  },
+  {
+    "title": "Death on the Nile",
+    "author": "Agatha Christie",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "publisher": "Collins Crime Club",
+    "isbn": "978-0-00-712092-2",
+    "year_published": 1937
+  },
+  {
+    "title": "The ABC Murders",
+    "author": "Agatha Christie",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "publisher": "Collins Crime Club",
+    "isbn": "978-0-00-712095-3",
+    "year_published": 1936
+  },
+  {
+    "title": "The Mysterious Affair at Styles",
+    "author": "Agatha Christie",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "publisher": "The Bodley Head",
+    "isbn": "978-0-00-712096-0",
+    "year_published": 1920
+  },
+  {
+    "title": "Murder at the Vicarage",
+    "author": "Agatha Christie",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "publisher": "Collins Crime Club",
+    "isbn": "978-0-00-712089-2",
+    "year_published": 1930
+  },
+  {
+    "title": "The body in the library",
+    "author": "Agatha Christie",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "publisher": "Collins Crime Club",
+    "isbn": "978-0-00-712088-5",
+    "year_published": 1942
+  },
+  {
+    "title": "Five Little Pigs",
+    "author": "Agatha Christie",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "publisher": "Collins Crime Club",
+    "isbn": "978-0-00-712093-9",
+    "year_published": 1942
+  },
+  {
+    "title": "Evil Under the Sun",
+    "author": "Agatha Christie",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "publisher": "Collins Crime Club",
+    "isbn": "978-0-00-712090-8",
+    "year_published": 1941
+  },
+  {
+    "title": "Hercule Poirot's Early Cases",
+    "author": "Agatha Christie",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "publisher": "Collins Crime Club",
+    "isbn": "978-0-00-712099-1",
+    "year_published": 1974
+  },
+  {
+    "title": "Crooked House",
+    "author": "Agatha Christie",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "publisher": "Collins Crime Club",
+    "isbn": "978-0-00-712091-5",
+    "year_published": 1949
+  },
+  {
+    "title": "A Study in Scarlet",
+    "author": "Arthur Conan Doyle",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Detective Fiction"
+    ],
+    "publisher": "Ward, Lock & Co.",
+    "isbn": "978-0-19-921051-0",
+    "year_published": 1887
+  },
+  {
+    "title": "The Sign of the Four",
+    "author": "Arthur Conan Doyle",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Detective Fiction"
+    ],
+    "publisher": "Lippincott's Monthly Magazine",
+    "isbn": "978-0-19-921050-3",
+    "year_published": 1890
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Detective Fiction"
+    ],
+    "publisher": "Collier's",
+    "isbn": "978-0-19-921060-2",
+    "year_published": 1902
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Detective Fiction"
+    ],
+    "publisher": "George Newnes Ltd",
+    "isbn": "978-0-19-956150-7",
+    "year_published": 1892
+  },
+  {
+    "title": "The Memoirs of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Detective Fiction"
+    ],
+    "publisher": "George Newnes Ltd",
+    "isbn": "978-0-19-956154-5",
+    "year_published": 1893
+  },
+  {
+    "title": "The Valley of Fear",
+    "author": "Arthur Conan Doyle",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Detective Fiction"
+    ],
+    "publisher": "George Newnes Ltd",
+    "isbn": "978-0-19-921059-6",
+    "year_published": 1915
+  },
+  {
+    "title": "Startide Rising",
+    "author": "David Brin",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Spectrum",
+    "isbn": "978-0-553-24200-2",
+    "year_published": 1983
+  },
+  {
+    "title": "The Uplift War",
+    "author": "David Brin",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Bantam Spectra",
+    "isbn": "978-0-553-24202-6",
+    "year_published": 1987
+  },
+  {
+    "title": "Foundation's Triumph",
+    "author": "David Brin",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Bantam Books",
+    "isbn": "978-0-553-08876-5",
+    "year_published": 1993
+  },
+  {
+    "title": "Earth",
+    "author": "David Brin",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Bantam Spectra",
+    "isbn": "978-0-553-21773-2",
+    "year_published": 1990
+  },
+  {
+    "title": "The Postman",
+    "author": "David Brin",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Del Rey",
+    "isbn": "978-0-345-32869-3",
+    "year_published": 1985
+  },
+  {
+    "title": "Kiln People",
+    "author": "David Brin",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Tor Books",
+    "isbn": "978-0-7653-0542-3",
+    "year_published": 2002
+  },
+  {
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Military Science Fiction"
+    ],
+    "publisher": "Orson Scott Card's Hatrack River Enterprises",
+    "isbn": "978-0-7653-4801-4",
+    "year_published": 1985
+  },
+  {
+    "title": "Speaker for the Dead",
+    "author": "Orson Scott Card",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Philosophical Fiction"
+    ],
+    "publisher": "Tor Books",
+    "isbn": "978-0-812-52708-2",
+    "year_published": 1986
+  },
+  {
+    "title": "Xenocide",
+    "author": "Orson Scott Card",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Tor Books",
+    "isbn": "978-0-812-52711-2",
+    "year_published": 1991
+  },
+  {
+    "title": "Children of the Mind",
+    "author": "Orson Scott Card",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Tor Books",
+    "isbn": "978-0-7653-0851-2",
+    "year_published": 1996
+  },
+  {
+    "title": "The Shadow of the Hegemon",
+    "author": "Orson Scott Card",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Military Science Fiction"
+    ],
+    "publisher": "Tor Books",
+    "isbn": "978-0-7653-3580-9",
+    "year_published": 2000
+  },
+  {
+    "title": "The Tales of Alvin Maker: Seventh Son",
+    "author": "Orson Scott Card",
+    "language": "English",
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "Ace Books",
+    "isbn": "978-0-441-00494-1",
+    "year_published": 1987
+  },
+  {
+    "title": "Alvin Journeyman",
+    "author": "Orson Scott Card",
+    "language": "English",
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "Tor Books",
+    "isbn": "978-0-7653-1397-9",
+    "year_published": 1995
+  },
+  {
+    "title": "The Tar-Aiym Krang",
+    "author": "Alan Dean Foster",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "publisher": "Ballantine Books",
+    "isbn": "978-0-345-28829-0",
+    "year_published": 1972
+  },
+  {
+    "title": "The Bloodhounds of Broadway",
+    "author": "Alan Dean Foster",
+    "language": "English",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "publisher": "Bantam Books",
+    "isbn": "978-0-553-10610-9",
+    "year_published": 1988
+  },
+  {
+    "title": "Tatooine Ghost",
+    "author": "Alan Dean Foster",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Space Opera"
+    ],
+    "publisher": "Del Rey",
+    "isbn": "978-0-345-47217-0",
+    "year_published": 2003
+  },
+  {
+    "title": "The Man Who Used the Universe",
+    "author": "Alan Dean Foster",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Ace Books",
+    "isbn": "978-0-441-01025-5",
+    "year_published": 1983
+  },
+  {
+    "title": "Fledgling",
+    "author": "Alan Dean Foster",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "publisher": "Bantam Books",
+    "isbn": "978-0-553-58262-4",
+    "year_published": 1979
+  },
+  {
+    "title": "A Call to Arms",
+    "author": "Alan Dean Foster",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "DAW Books",
+    "isbn": "978-0-88677-955-5",
+    "year_published": 1994
+  },
+  {
+    "title": "Pilgrim",
+    "author": "Alan Dean Foster",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "DAW Books",
+    "isbn": "978-0-88677-181-5",
+    "year_published": 1997
+  },
+  {
+    "title": "The Disturbing Peace",
+    "author": "Alan Dean Foster",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "publisher": "Bantam Spectra",
+    "isbn": "978-0-553-55376-7",
+    "year_published": 1990
+  },
+  {
+    "title": "The Coming of the Quantum Cats",
+    "author": "Alan Dean Foster",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Ballantine Books",
+    "isbn": "978-0-345-34822-2",
+    "year_published": 1986
+  },
+  {
+    "title": "ADF's Star Wars: Episode II: Attack of the Clones",
+    "author": "Alan Dean Foster",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Movie Novelization"
+    ],
+    "publisher": "Del Rey",
+    "isbn": "978-0-345-45056-9",
+    "year_published": 2002
+  },
+  {
+    "title": "The Instinctive Man",
+    "author": "Alan Dean Foster",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Bantam Books",
+    "isbn": "978-0-553-26334-3",
+    "year_published": 1990
+  },
+  {
+    "title": "For Love of Mother-Not",
+    "author": "Alan Dean Foster",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Ballantine Books",
+    "isbn": "978-0-345-27803-2",
+    "year_published": 1973
+  },
+  {
+    "title": "The Voices of Heaven",
+    "author": "Alan Dean Foster",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "DAW Books",
+    "isbn": "978-0-88677-139-2",
+    "year_published": 1985
+  },
+  {
+    "title": "The Magic of Recluce",
+    "author": "L. E. Modesitt Jr.",
+    "language": "English",
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "Tor Books",
+    "isbn": "978-0-812-50047-7",
+    "year_published": 1991
+  },
+  {
+    "title": "The Towers of the Sunset",
+    "author": "L. E. Modesitt Jr.",
+    "language": "English",
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "Tor Books",
+    "isbn": "978-0-812-50045-3",
+    "year_published": 1994
+  },
+  {
+    "title": "The Order War",
+    "author": "L. E. Modesitt Jr.",
+    "language": "English",
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "Tor Books",
+    "isbn": "978-0-7653-0732-0",
+    "year_published": 2000
+  },
+  {
+    "title": "The Magic Engineer",
+    "author": "L. E. Modesitt Jr.",
+    "language": "English",
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "Tor Books",
+    "isbn": "978-0-812-50057-6",
+    "year_published": 1994
+  },
+  {
+    "title": "The Fall of Angels",
+    "author": "L. E. Modesitt Jr.",
+    "language": "English",
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "Tor Books",
+    "isbn": "978-0-7653-0818-1",
+    "year_published": 2002
+  },
+  {
+    "title": "Imager",
+    "author": "L. E. Modesitt Jr.",
+    "language": "English",
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "Tor Books",
+    "isbn": "978-0-7653-0788-7",
+    "year_published": 2009
+  },
+  {
+    "title": "The Grimspace",
+    "author": "L. E. Modesitt Jr.",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Tor Books",
+    "isbn": "978-0-7653-4805-2",
+    "year_published": 2000
+  },
+  {
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Space Opera"
+    ],
+    "publisher": "Gnome Press",
+    "isbn": "978-0-553-80371-1",
+    "year_published": 1951
+  },
+  {
+    "title": "Foundation and Empire",
+    "author": "Isaac Asimov",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Space Opera"
+    ],
+    "publisher": "Gnome Press",
+    "isbn": "978-0-553-80372-8",
+    "year_published": 1952
+  },
+  {
+    "title": "Second Foundation",
+    "author": "Isaac Asimov",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Space Opera"
+    ],
+    "publisher": "Gnome Press",
+    "isbn": "978-0-553-80373-5",
+    "year_published": 1953
+  },
+  {
+    "title": "I, Robot",
+    "author": "Isaac Asimov",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "publisher": "Gnome Press",
+    "isbn": "978-0-553-80370-4",
+    "year_published": 1950
+  },
+  {
+    "title": "The Gods Themselves",
+    "author": "Isaac Asimov",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Doubleday",
+    "isbn": "978-0-553-80402-1",
+    "year_published": 1972
+  },
+  {
+    "title": "The Caves of Steel",
+    "author": "Isaac Asimov",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Detective"
+    ],
+    "publisher": "Gnome Press",
+    "isbn": "978-0-553-80442-7",
+    "year_published": 1954
+  },
+  {
+    "title": "The Naked Sun",
+    "author": "Isaac Asimov",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Detective"
+    ],
+    "publisher": "Gnome Press",
+    "isbn": "978-0-553-80443-4",
+    "year_published": 1957
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "language": "English",
+    "genres": [
+      "Dystopian",
+      "Political Fiction"
+    ],
+    "publisher": "Secker & Warburg",
+    "isbn": "978-0-452-28423-4",
+    "year_published": 1949
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "language": "English",
+    "genres": [
+      "Political Satire",
+      "Allegorical Novella"
+    ],
+    "publisher": "Secker & Warburg",
+    "isbn": "978-0-452-28424-1",
+    "year_published": 1945
+  },
+  {
+    "title": "Homage to Catalonia",
+    "author": "George Orwell",
+    "language": "English",
+    "genres": [
+      "Non-fiction",
+      "Memoir"
+    ],
+    "publisher": "Secker & Warburg",
+    "isbn": "978-0-14-118304-6",
+    "year_published": 1938
+  },
+  {
+    "title": "Down and Out in Paris and London",
+    "author": "George Orwell",
+    "language": "English",
+    "genres": [
+      "Memoir",
+      "Social Criticism"
+    ],
+    "publisher": "Victor Gollancz Ltd",
+    "isbn": "978-0-141-03927-3",
+    "year_published": 1933
+  },
+  {
+    "title": "The Road to Wigan Pier",
+    "author": "George Orwell",
+    "language": "English",
+    "genres": [
+      "Non-fiction",
+      "Social Commentary"
+    ],
+    "publisher": "Victor Gollancz Ltd",
+    "isbn": "978-0-14-118304-6",
+    "year_published": 1937
+  },
+  {
+    "title": "Keep the Aspidistra Flying",
+    "author": "George Orwell",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "Social Critique"
+    ],
+    "publisher": "Harcourt Brace Jovanovich",
+    "isbn": "978-0-452-28426-5",
+    "year_published": 1936
+  },
+  {
+    "title": "The Maltese Falcon",
+    "author": "Dashiell Hammett",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Detective Fiction"
+    ],
+    "publisher": "Knopf",
+    "isbn": "978-0-307-26975-8",
+    "year_published": 1930
+  },
+  {
+    "title": "The Thin Man",
+    "author": "Dashiell Hammett",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Detective Fiction"
+    ],
+    "publisher": "Knopf",
+    "isbn": "978-0-553-21118-6",
+    "year_published": 1934
+  },
+  {
+    "title": "Red Harvest",
+    "author": "Dashiell Hammett",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Detective Fiction"
+    ],
+    "publisher": "Knopf",
+    "isbn": "978-0-14-200165-2",
+    "year_published": 1929
+  },
+  {
+    "title": "The Glass Key",
+    "author": "Dashiell Hammett",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Detective Fiction"
+    ],
+    "publisher": "Knopf",
+    "isbn": "978-0-553-21117-9",
+    "year_published": 1931
+  },
+  {
+    "title": "The Dain Curse",
+    "author": "Dashiell Hammett",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Detective Fiction"
+    ],
+    "publisher": "Knopf",
+    "isbn": "978-0-553-21116-2",
+    "year_published": 1929
+  },
+  {
+    "title": "The Continental Op",
+    "author": "Dashiell Hammett",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Detective Fiction"
+    ],
+    "publisher": "Knopf",
+    "isbn": "978-0-14-303991-3",
+    "year_published": 1920
+  },
+  {
+    "title": "The Big Sleep",
+    "author": "Raymond Chandler",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Detective Fiction"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "isbn": "978-0-01-113512-0",
+    "year_published": 1939
+  },
+  {
+    "title": "Farewell, My Lovely",
+    "author": "Raymond Chandler",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Detective Fiction"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "isbn": "978-0-395-22344-4",
+    "year_published": 1940
+  },
+  {
+    "title": "The High Window",
+    "author": "Raymond Chandler",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Detective Fiction"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "isbn": "978-0-394-74082-6",
+    "year_published": 1942
+  },
+  {
+    "title": "The Lady in the Lake",
+    "author": "Raymond Chandler",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Detective Fiction"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "isbn": "978-0-395-21502-8",
+    "year_published": 1943
+  },
+  {
+    "title": "The Little Sister",
+    "author": "Raymond Chandler",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Detective Fiction"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "isbn": "978-0-394-74083-3",
+    "year_published": 1949
+  },
+  {
+    "title": "Playback",
+    "author": "Raymond Chandler",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Detective Fiction"
+    ],
+    "publisher": "Hamish Hamilton",
+    "isbn": "978-0-395-21504-2",
+    "year_published": 1958
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "language": "English",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "publisher": "Chatto & Windus",
+    "isbn": "978-0-06-085052-4",
+    "year_published": 1932
+  },
+  {
+    "title": "Island",
+    "author": "Aldous Huxley",
+    "language": "English",
+    "genres": [
+      "Dystopian",
+      "Philosophical Fiction"
+    ],
+    "publisher": "Harper & Row",
+    "isbn": "978-0-06-092983-2",
+    "year_published": 1962
+  },
+  {
+    "title": "Eyeless in Gaza",
+    "author": "Aldous Huxley",
+    "language": "English",
+    "genres": [
+      "Fiction"
+    ],
+    "publisher": "Chatto & Windus",
+    "isbn": "978-0-06-085051-7",
+    "year_published": 1936
+  },
+  {
+    "title": "The Doors of Perception",
+    "author": "Aldous Huxley",
+    "language": "English",
+    "genres": [
+      "Non-fiction",
+      "Philosophy"
+    ],
+    "publisher": "Chatto & Windus",
+    "isbn": "978-0-06-172898-5",
+    "year_published": 1954
+  },
+  {
+    "title": "Point Counter Point",
+    "author": "Aldous Huxley",
+    "language": "English",
+    "genres": [
+      "Novel"
+    ],
+    "publisher": "Chatto & Windus",
+    "isbn": "978-0-06-085050-0",
+    "year_published": 1928
+  },
+  {
+    "title": "Antic Hay",
+    "author": "Aldous Huxley",
+    "language": "English",
+    "genres": [
+      "Fiction"
+    ],
+    "publisher": "Chatto & Windus",
+    "isbn": "978-0-06-085053-1",
+    "year_published": 1923
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "language": "English",
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "publisher": "Ballantine Books",
+    "isbn": "978-0-7432-4722-1",
+    "year_published": 1953
+  },
+  {
+    "title": "The Martian Chronicles",
+    "author": "Ray Bradbury",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "publisher": "Doubleday",
+    "isbn": "978-0-553-21311-7",
+    "year_published": 1950
+  },
+  {
+    "title": "Something Wicked This Way Comes",
+    "author": "Ray Bradbury",
+    "language": "English",
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "publisher": "Simon & Schuster",
+    "isbn": "978-0-689-83695-1",
+    "year_published": 1962
+  },
+  {
+    "title": "The Illustrated Man",
+    "author": "Ray Bradbury",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Short Stories"
+    ],
+    "publisher": "Doubleday",
+    "isbn": "978-0-06-081710-4",
+    "year_published": 1951
+  },
+  {
+    "title": "Dandelion Wine",
+    "author": "Ray Bradbury",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "Coming-of-Age"
+    ],
+    "publisher": "Simon & Schuster",
+    "isbn": "978-0-06-074015-9",
+    "year_published": 1957
+  },
+  {
+    "title": "The October Country",
+    "author": "Ray Bradbury",
+    "language": "English",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "publisher": "Random House",
+    "isbn": "978-0-06-081710-4",
+    "year_published": 1955
+  },
+  {
+    "title": "The Wisdom of  Crowds",
+    "author": "Ray Bradbury",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "E. P. Dutton",
+    "isbn": "978-0-525-47551-4",
+    "year_published": 1989
+  },
+  {
+    "title": "A Graveyard for Lunatics",
+    "author": "Ray Bradbury",
+    "language": "English",
+    "genres": [
+      "Mystery",
+      "Science Fiction"
+    ],
+    "publisher": "William Morrow",
+    "isbn": "978-0-688-12094-6",
+    "year_published": 1990
+  },
+  {
+    "title": "From the Dust Returned",
+    "author": "Ray Bradbury",
+    "language": "English",
+    "genres": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "publisher": "HarperCollins",
+    "isbn": "978-0-06-054060-4",
+    "year_published": 2001
+  },
+  {
+    "title": "The Small Assassin",
+    "author": "Ray Bradbury",
+    "language": "English",
+    "genres": [
+      "Horror",
+      "Short Stories"
+    ],
+    "publisher": "Great American Publishing",
+    "isbn": "978-0-934574-72-7",
+    "year_published": 1953
+  },
+  {
+    "title": "The Cat's Pajamas",
+    "author": "Ray Bradbury",
+    "language": "English",
+    "genres": [
+      "Short Stories",
+      "Fantasy"
+    ],
+    "publisher": "HarperCollins",
+    "isbn": "978-0-06-058524-9",
+    "year_published": 2004
+  },
+  {
+    "title": "These Scattered Pages",
+    "author": "Ray Bradbury",
+    "language": "English",
+    "genres": [
+      "Poetry"
+    ],
+    "publisher": "Viking Penguin",
+    "isbn": "978-0-394-51686-9",
+    "year_published": 1979
+  },
+  {
+    "title": "The Time Machine",
+    "author": "H. G. Wells",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Henry Holt and Company",
+    "isbn": "978-0-385-72247-4",
+    "year_published": 1895
+  },
+  {
+    "title": "The War of the Worlds",
+    "author": "H. G. Wells",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "William Heinemann",
+    "isbn": "978-0-14-144103-0",
+    "year_published": 1898
+  },
+  {
+    "title": "The Invisible Man",
+    "author": "H. G. Wells",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "publisher": "C. Scribner's Sons",
+    "isbn": "978-0-14-144124-5",
+    "year_published": 1897
+  },
+  {
+    "title": "The First Men in the Moon",
+    "author": "H. G. Wells",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "George Newnes Ltd.",
+    "isbn": "978-0-14-144126-9",
+    "year_published": 1901
+  },
+  {
+    "title": "The Food of the Gods and How It Came to Earth",
+    "author": "H. G. Wells",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "H. Holt",
+    "isbn": "978-1-384-35267-2",
+    "year_published": 1904
+  },
+  {
+    "title": "The Shape of Things to Come",
+    "author": "H. G. Wells",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Political Fiction"
+    ],
+    "publisher": "Harcourt Brace and Company",
+    "isbn": "978-0-477-20188-0",
+    "year_published": 1933
+  },
+  {
+    "title": "Kindred",
+    "author": "Octavia E. Butler",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Fantasy",
+      "Historical Fiction"
+    ],
+    "publisher": "Doubleday",
+    "isbn": "978-0-385-19230-1",
+    "year_published": 1979
+  },
+  {
+    "title": "Parable of the Sower",
+    "author": "Octavia E. Butler",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "publisher": "Seven Stories Press",
+    "isbn": "978-1-60980-181-0",
+    "year_published": 1993
+  },
+  {
+    "title": "Parable of the Talents",
+    "author": "Octavia E. Butler",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "publisher": "Seven Stories Press",
+    "isbn": "978-1-60980-184-1",
+    "year_published": 1998
+  },
+  {
+    "title": "Fledgling",
+    "author": "Octavia E. Butler",
+    "language": "English",
+    "genres": [
+      "Science Fiction",
+      "Horror"
+    ],
+    "publisher": "Seven Stories Press",
+    "isbn": "978-1-58005-069-5",
+    "year_published": 2005
+  },
+  {
+    "title": "Dawn",
+    "author": "Octavia E. Butler",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Warner Books",
+    "isbn": "978-0-446-31940-8",
+    "year_published": 1987
+  },
+  {
+    "title": "Lilith's Brood",
+    "author": "Octavia E. Butler",
+    "language": "English",
+    "genres": [
+      "Science Fiction"
+    ],
+    "publisher": "Seven Stories Press",
+    "isbn": "978-1-58005-073-2",
+    "year_published": 2000
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "language": "English",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "publisher": "George Allen & Unwin",
+    "isbn": "978-0-261-10221-9",
+    "year_published": 1937
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "author": "J. R. R. Tolkien",
+    "language": "English",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "publisher": "George Allen & Unwin",
+    "isbn": "978-0-618-00222-8",
+    "year_published": 1954
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "author": "J. R. R. Tolkien",
+    "language": "English",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "publisher": "George Allen & Unwin",
+    "isbn": "978-0-618-00223-5",
+    "year_published": 1954
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "author": "J. R. R. Tolkien",
+    "language": "English",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "publisher": "George Allen & Unwin",
+    "isbn": "978-0-618-00224-2",
+    "year_published": 1955
+  },
+  {
+    "title": "The Silmarillion",
+    "author": "J. R. R. Tolkien",
+    "language": "English",
+    "genres": [
+      "Fantasy",
+      "Mythopoeia"
+    ],
+    "publisher": "George Allen & Unwin",
+    "isbn": "978-0-618-00222-8",
+    "year_published": 1977
+  },
+  {
+    "title": "Unfinished Tales of Númenor and Middle-earth",
+    "author": "J. R. R. Tolkien",
+    "language": "English",
+    "genres": [
+      "Fantasy",
+      "Mythopoeia"
+    ],
+    "publisher": "George Allen & Unwin",
+    "isbn": "978-0-618-00226-6",
+    "year_published": 1980
+  },
+  {
+    "title": "The American Language",
+    "author": "H. L. Mencken",
+    "language": "English",
+    "genres": [
+      "Non-fiction",
+      "Linguistics"
+    ],
+    "publisher": "Knopf",
+    "isbn": "978-0-517-38569-0",
+    "year_published": 1919
+  },
+  {
+    "title": "The Prejudices: A Philosophical Dictionary",
+    "author": "H. L. Mencken",
+    "language": "English",
+    "genres": [
+      "Non-fiction",
+      "Essays"
+    ],
+    "publisher": "Knopf",
+    "isbn": "978-0-517-39916-1",
+    "year_published": 1927
+  },
+  {
+    "title": "A Mencken Chrestomathy",
+    "author": "H. L. Mencken",
+    "language": "English",
+    "genres": [
+      "Non-fiction",
+      "Essays"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "isbn": "978-0-385-03493-2",
+    "year_published": 1949
+  },
+  {
+    "title": "The Baltimore Evening Sun",
+    "author": "H. L. Mencken",
+    "language": "English",
+    "genres": [
+      "Non-fiction",
+      "Journalism"
+    ],
+    "publisher": "Various",
+    "isbn": "N/A",
+    "year_published": "Various"
+  },
+  {
+    "title": "In Defense of Women",
+    "author": "H. L. Mencken",
+    "language": "English",
+    "genres": [
+      "Non-fiction",
+      "Essays"
+    ],
+    "publisher": "Knopf",
+    "isbn": "978-0-917800-06-5",
+    "year_published": 1922
+  },
+  {
+    "title": "My Life as Author and Editor",
+    "author": "H. L. Mencken",
+    "language": "English",
+    "genres": [
+      "Non-fiction",
+      "Autobiography"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "isbn": "978-0-300-04651-2",
+    "year_published": 1993
+  },
+  {
+    "title": "The Myth of the Latin Woman: I Just Met a Girl Named Maria",
+    "author": "H. L. Mencken",
+    "language": "English",
+    "genres": [
+      "Non-fiction",
+      "Essays"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "isbn": "978-0-14-005787-5",
+    "year_published": 1979
+  },
+  {
+    "title": "Chrysanthemum",
+    "author": "H. L. Mencken",
+    "language": "English",
+    "genres": [
+      "Non-fiction",
+      "Essays"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "isbn": "978-0-312-14380-7",
+    "year_published": 1930
+  },
+  {
+    "title": "Mencken's Chrestomathy",
+    "author": "H. L. Mencken",
+    "language": "English",
+    "genres": [
+      "Non-fiction",
+      "Essays"
+    ],
+    "publisher": "Knopf",
+    "isbn": "978-0-517-49957-8",
+    "year_published": 1956
+  },
+  {
+    "title": "The The American Language: An Inquiry into the Development of English in the United States",
+    "author": "H. L. Mencken",
+    "language": "English",
+    "genres": [
+      "Non-fiction",
+      "Linguistics"
+    ],
+    "publisher": "Knopf",
+    "isbn": "978-0-385-50452-8",
+    "year_published": 1921
+  },
+  {
+    "title": "A Book of Burlesques",
+    "author": "H. L. Mencken",
+    "language": "English",
+    "genres": [
+      "Fiction",
+      "Short Stories"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "isbn": "978-0-691-17210-1",
+    "year_published": 1920
+  },
+  {
+    "title": "On Politics: A Carnival of Buncombe",
+    "author": "H. L. Mencken",
+    "language": "English",
+    "genres": [
+      "Non-fiction",
+      "Political Commentary"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "isbn": "978-1-55753-014-7",
+    "year_published": 1956
+  },
+  {
+    "title": "Conan the Barbarian",
+    "author": "Robert E. Howard",
+    "language": "English",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "publisher": "Gnome Press",
+    "isbn": "978-1-58277-195-3",
+    "year_published": 1932
+  },
+  {
+    "title": "The Hour of the Dragon",
+    "author": "Robert E. Howard",
+    "language": "English",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "publisher": "Weird Tales",
+    "isbn": "978-1-78128-097-2",
+    "year_published": 1935
+  },
+  {
+    "title": "The Coming of Conan the Cimmerian",
+    "author": "Robert E. Howard",
+    "language": "English",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "publisher": "Del Rey",
+    "isbn": "978-0-345-47873-4",
+    "year_published": 2003
+  },
+  {
+    "title": "The Last Hero",
+    "author": "Robert E. Howard",
+    "language": "English",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "publisher": "Gnome Press",
+    "isbn": "978-1-58277-137-2",
+    "year_published": 1963
+  },
+  {
+    "title": "Blood and Thunder: The Life and Art of Robert E. Howard",
+    "author": "Mark Finn, et al.",
+    "language": "English",
+    "genres": [
+      "Biography",
+      "Non-fiction"
+    ],
+    "publisher": "MonkeyBrain Books",
+    "isbn": "978-1-931720-05-4",
+    "year_published": 2006
+  },
+  {
+    "title": "The Complete Chronicles of Conan",
+    "author": "Robert E. Howard",
+    "language": "English",
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "publisher": "Gnome Press",
+    "isbn": "978-0-7851-1346-6",
+    "year_published": 2000
+  }
+]
