@@ -3,6 +3,7 @@ package com.webforj.bookstore.data;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.List;
 import java.util.UUID;
+import lombok.Builder;
 import lombok.Data;
 
 /**
@@ -12,7 +13,8 @@ import lombok.Data;
  * @since Dec 16, 2024
  */
 @Data
-public class JsonBook implements Comparable<JsonBook> {
+@Builder
+public class JsonBookFixPublisher implements Comparable<JsonBookFixPublisher> {
     private final String id = UUID.randomUUID().toString();
     private String title;
     private String author;
@@ -29,7 +31,7 @@ public class JsonBook implements Comparable<JsonBook> {
 
 
     @Override
-    public int compareTo(JsonBook o) {
+    public int compareTo(JsonBookFixPublisher o) {
         return title.compareTo(o.title);
     }
 }

@@ -1,10 +1,8 @@
 package com.webforj.bookstore.service;
 
 import com.webforj.bookstore.repository.Author;
-import com.webforj.bookstore.repository.AuthorDto;
 import java.io.IOException;
-import java.util.Set;
-import org.springframework.stereotype.Service;
+import java.util.Collection;
 
 /**
  * AuthorsService
@@ -14,5 +12,11 @@ import org.springframework.stereotype.Service;
  */
 public interface AuthorsService {
 
-    Set<AuthorDto> getAllAuthors() throws IOException;
+    /**
+     * get an unfiltered, unsorted collection of authors.
+     *
+     * @return a collection of authors.
+     * @throws IOException any lower problems.
+     */
+    Collection<Author> getAllAuthors() throws IOException;
 }

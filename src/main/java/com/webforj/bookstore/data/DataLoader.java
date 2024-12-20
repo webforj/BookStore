@@ -1,5 +1,6 @@
 package com.webforj.bookstore.data;
 
+import com.webforj.bookstore.repository.Author;
 import io.vavr.control.Try;
 import jakarta.annotation.PostConstruct;
 import java.io.IOException;
@@ -19,6 +20,9 @@ import org.springframework.stereotype.Component;
 @Component
 public class DataLoader {
     private static final Logger log = LogManager.getLogger(DataLoader.class);
+    private final AuthorsIndex authorsIndex;
+    private final BooksIndex booksIndex;
+
 
     @Value("${data-loader.books-source}")
     private Resource booksSource;
@@ -26,18 +30,13 @@ public class DataLoader {
     @Value("${data-loader.authors-source}")
     private Resource authorsSource;
 
-    private final JsonAuthorsCache jsonAuthorsCache;
-    private final JsonBooksCache jsonBooksCache;
 
     /**
      * Create the data loader with the caches.
-     *
-     * @param jsonAuthorsCache the cache for the json authors.
-     * @param jsonBooksCache the cache for the json books.
      */
-    public DataLoader(JsonAuthorsCache jsonAuthorsCache, JsonBooksCache jsonBooksCache) {
-        this.jsonAuthorsCache = jsonAuthorsCache;
-        this.jsonBooksCache = jsonBooksCache;
+    public DataLoader(AuthorsIndex authorsIndex, BooksIndex booksIndex) {
+        this.authorsIndex = authorsIndex;
+        this.booksIndex = booksIndex;
     }
 
     /**
@@ -52,8 +51,6 @@ public class DataLoader {
     }
 
     /**
-     * Load the books into the {@link JsonBooksCache}.
-     *
      * @throws IOException file io problems mostly.
      */
     private void loadBooks() throws IOException {
@@ -62,11 +59,12 @@ public class DataLoader {
           .onFailure(t -> log.error(t.getMessage(), t))
           .getOrElseThrow(throwable -> new IOException("Failed to load from book source", throwable));
         log.atInfo().withLocation().log("Loaded {} books ", books.size());
-        jsonBooksCache.addAll(books);
+        booksIndex.addAll(books);
+
     }
 
     /**
-     * Load the authors into the {@link JsonBooksCache}.
+     * Load the authors into the authorsIndexedCollection.
      *
      * @throws IOException file io problems mostly.
      */
@@ -76,15 +74,13 @@ public class DataLoader {
           .onFailure(t -> log.error(t.getMessage(), t))
           .getOrElseThrow(throwable -> new IOException("Failed to load from book source", throwable));
         log.atInfo().withLocation().log("Loaded {} authors ", authors.size());
-        jsonAuthorsCache.addAll(authors);
+        authorsIndex.addAll(authors);
+
     }
 
-    public Collection<JsonAuthor> getJsonAuthors() {
-        return jsonAuthorsCache.getAll();
-    }
 
-    public Collection<JsonBook> getJsonBooks() {
-        return jsonBooksCache.getAll();
-    }
 
+    public Collection<Author> getAuthors() {
+        return authorsIndex.getAuthors();
+    }
 }

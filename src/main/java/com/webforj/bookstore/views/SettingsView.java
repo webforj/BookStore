@@ -6,7 +6,6 @@ import com.webforj.component.html.elements.Div;
 import com.webforj.component.html.elements.H1;
 import com.webforj.router.annotation.Route;
 import lombok.extern.log4j.Log4j2;
-import org.springframework.context.annotation.Scope;
 
 /**
  * SettingsView

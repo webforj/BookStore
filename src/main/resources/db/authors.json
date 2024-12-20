@@ -1,580 +1,1924 @@
 [
   {
-    "name": "L. E. Modesitt Jr.",
-    "birth_date": "October 19, 1943",
-    "nationality": "American",
-    "profession": "Novelist",
-    "notable_works": [
-      "The Saga of Recluce",
-      "The Imager Portfolio",
-      "The Forever Hero"
-    ],
-    "genres": [
-      "Fantasy",
-      "Science Fiction"
-    ],
-    "impact": "Modesitt's works discuss complex themes of morality, politics, and economics, influencing the development of modern fantasy and speculative fiction.",
-    "influences": [
-      "J.R.R. Tolkien",
-      "Raymond E. Feist",
-      "Isaac Asimov"
-    ]
-  },
-  {
-    "name": "David Brin",
-    "birth_date": "October 6, 1950",
-    "nationality": "American",
-    "profession": "Science Fiction Writer",
-    "notable_works": [
-      "Startide Rising",
-      "The Uplift War",
-      "Earth"
-    ],
-    "genres": [
-      "Science Fiction",
-      "Fantasy"
-    ],
-    "impact": "Brin's Uplift series has contributed to discussions about the ethics of genetic engineering and artificial intelligence, influencing both literature and scientific thought.",
-    "influences": [
-      "Arthur C. Clarke",
-      "Isaac Asimov",
-      "Robert A. Heinlein"
-    ]
-  },
-  {
-    "name": "Harper Lee",
-    "birth_date": "April 28, 1926",
-    "death_date": "February 19, 2016",
-    "nationality": "American",
-    "profession": "Novelist",
-    "notable_works": [
-      "To Kill a Mockingbird",
-      "Go Set a Watchman"
-    ],
-    "genres": [
-      "Southern Gothic",
-      "Coming-of-age"
-    ],
-    "impact": "Lee's exploration of racial injustice and moral growth profoundly impacted American literature and civil rights discourse.",
-    "influences": [
-      "Mark Twain",
-      "William Faulkner",
-      "Zora Neale Hurston"
-    ]
-  },
-  {
-    "name": "Isaac Asimov",
-    "birth_date": "January 2, 1920",
-    "death_date": "April 6, 1992",
-    "nationality": "American",
-    "profession": "Science Fiction Writer, Biochemist",
-    "notable_works": [
-      "Foundation Series",
-      "Robot Series",
-      "I, Robot"
-    ],
-    "genres": [
-      "Science Fiction",
-      "Popular Science"
-    ],
-    "impact": "Asimov's ideas about robotics, artificial intelligence, and sociology have shaped modern science fiction and inspired advancements in technology.",
-    "influences": [
-      "H.G. Wells",
-      "Jules Verne",
-      "Robert A. Heinlein"
-    ]
-  },
-  {
-    "name": "Stephen Hawking",
-    "birth_date": "January 8, 1942",
-    "death_date": "March 14, 2018",
-    "nationality": "British",
-    "profession": "Theoretical Physicist, Cosmologist, Author",
-    "notable_works": [
-      "A Brief History of Time",
-      "The Universe in a Nutshell",
-      "The Grand Design"
-    ],
-    "fields_of_study": [
-      "Theoretical Physics",
-      "Cosmology"
-    ],
-    "impact": "Hawking's work on black holes and cosmology popularized complex scientific concepts, inspiring public interest in science and advancing our understanding of the universe.",
-    "influences": [
-      "Albert Einstein",
-      "Isaac Newton",
-      "Richard Feynman"
-    ]
-  },
-  {
-    "name": "Carl Sagan",
-    "birth_date": "November 9, 1934",
-    "death_date": "December 20, 1996",
-    "nationality": "American",
-    "profession": "Astronomer, Astrophysicist, Author, Science Communicator",
-    "notable_works": [
-      "Cosmos",
-      "The Pale Blue Dot",
-      "Contact",
-      "Broca's Brain"
-    ],
-    "fields_of_study": [
-      "Astronomy",
-      "Planetary Science",
-      "Astrobiology"
-    ],
-    "impact": "Sagan played a crucial role in popularizing science and fostering a public appreciation for the cosmos. His ability to communicate complex scientific ideas in an accessible manner inspired generations of scientists and enthusiasts.",
-    "influences": [
-      "Giovanni Schiaparelli",
-      "Carl Friedrich Gauss",
-      "Isaac Asimov",
-      "Richard Feynman",
-      "Jane Goodall"
-    ]
-  },
-  {
-    "name": "Raymond Chandler",
-    "birth_date": "July 23, 1888",
-    "death_date": "March 26, 1959",
-    "nationality": "American",
-    "profession": "Novelist, Screenwriter",
-    "notable_works": [
-      "The Big Sleep",
-      "Farewell, My Lovely",
-      "The Long Goodbye"
-    ],
-    "genres": [
-      "Hard-Boiled Detective Fiction",
-      "Crime Fiction"
-    ],
-    "impact": "Chandler is credited with establishing the hard-boiled detective genre, influencing both literature and film noir.",
-    "influences": [
-      "Dashiell Hammett",
-      "Ernest Hemingway",
-      "F. Scott Fitzgerald"
-    ]
-  },
-  {
-    "name": "Aldous Huxley",
-    "birth_date": "July 26, 1894",
-    "death_date": "November 22, 1963",
-    "nationality": "British",
-    "profession": "Novelist, Essayist",
-    "notable_works": [
-      "Brave New World",
-      "Island",
-      "The Doors of Perception"
-    ],
-    "genres": [
-      "Dystopian Fiction",
-      "Philosophical Fiction"
-    ],
-    "impact": "Huxley’s works critique modern society and explore themes of ethics, technology, and individuality.",
-    "influences": [
-      "George Orwell",
-      "Friedrich Nietzsche",
-      "Thomas More"
-    ]
-  },
-  {
-    "name": "Robert A. Heinlein",
-    "birth_date": "July 7, 1907",
-    "death_date": "May 8, 1988",
-    "nationality": "American",
-    "profession": "Science Fiction Writer",
-    "notable_works": [
-      "Stranger in a Strange Land",
-      "Starship Troopers",
-      "The Moon is a Harsh Mistress"
-    ],
-    "genres": [
-      "Science Fiction"
-    ],
-    "impact": "Heinlein was a major figure in science fiction who introduced ideas about individualism and personal freedom.",
-    "influences": [
-      "H.G. Wells",
-      "Isaac Asimov",
-      "L. Sprague de Camp"
-    ]
-  },
-  {
-    "name": "Ray Bradbury",
-    "birth_date": "August 22, 1920",
-    "death_date": "June 5, 2012",
-    "nationality": "American",
-    "profession": "Writer, Screenwriter",
-    "notable_works": [
-      "Fahrenheit 451",
-      "The Martian Chronicles",
-      "Something Wicked This Way Comes"
-    ],
-    "genres": [
-      "Science Fiction",
-      "Fantasy",
-      "Horror"
-    ],
-    "impact": "Bradbury inspired readers to think critically about the future and the role of technology in society.",
-    "influences": [
-      "Edgar Allan Poe",
-      "H.G. Wells",
-      "Mark Twain"
-    ]
-  },
-  {
-    "name": "Orson Scott Card",
-    "birth_date": "August 24, 1951",
-    "nationality": "American",
-    "profession": "Author, Critic",
-    "notable_works": [
-      "Ender's Game",
-      "Speaker for the Dead",
-      "The Pathfinder series"
-    ],
-    "genres": [
-      "Science Fiction",
-      "Fantasy"
-    ],
-    "impact": "Card's exploration of complex moral and ethical dilemmas in 'Ender's Game' has influenced both readers and writers in the science fiction genre.",
-    "influences": [
-      "Isaac Asimov",
-      "Robert A. Heinlein",
-      "C.S. Lewis"
-    ]
-  },
-  {
-    "name": "Arthur Conan Doyle",
-    "birth_date": "May 22, 1859",
-    "death_date": "July 7, 1930",
-    "nationality": "British",
-    "profession": "Novelist, Physician",
-    "notable_works": [
-      "A Study in Scarlet",
-      "The Hound of the Baskervilles",
-      "The Adventures of Sherlock Holmes"
-    ],
-    "genres": [
-      "Mystery",
-      "Historical Fiction",
-      "Science Fiction"
-    ],
-    "impact": "Doyle popularized the detective fiction genre through the creation of Sherlock Holmes, influencing countless authors and adaptations.",
-    "influences": [
-      "Edgar Allan Poe",
-      "Wilkie Collins",
-      "Charles Dickens"
-    ]
-  },
-  {
-    "name": "J. R. R. Tolkien",
-    "birth_date": "January 3, 1892",
-    "death_date": "September 2, 1973",
-    "nationality": "British",
-    "profession": "Novelist, Philologist",
-    "notable_works": [
-      "The Hobbit",
-      "The Lord of the Rings",
-      "The Silmarillion"
-    ],
-    "genres": [
-      "Fantasy",
-      "High Fantasy"
-    ],
-    "impact": "Tolkien is regarded as the father of modern fantasy literature, creating an entire mythos that has shaped and defined the genre.",
-    "influences": [
-      "William Morris",
-      "Beowulf",
-      "Norse Mythology"
-    ]
-  },
-  {
-    "name": "Keay Davidson",
-    "birth_date": "April 18, 1944",
-    "nationality": "American",
-    "profession": "Author, Journalist",
-    "notable_works": [
-      "The Lost World of Charles Darwin",
-      "The Ordeal of the American West"
-    ],
-    "genres": [
-      "Biography",
-      "Non-Fiction"
-    ],
-    "impact": "Davidson's biographical works shine a light on underappreciated historical figures and contexts, promoting deeper understanding of their contributions.",
-    "influences": [
-      "Charles Darwin",
-      "John Steinbeck",
-      "Marc Bloch"
-    ]
-  },
-  {
-    "name": "Voltaire",
-    "full_name": "François-Marie Arouet",
-    "birth_date": "November 21, 1694",
-    "death_date": "May 30, 1778",
-    "nationality": "French",
-    "profession": "Writer, Philosopher",
-    "notable_works": [
-      "Candide",
-      "Zadig",
-      "Philosophical Dictionary"
-    ],
-    "genres": [
-      "Philosophical Fiction",
-      "Satire"
-    ],
-    "impact": "Voltaire was a leading figure of the Enlightenment, advocating for civil liberties, freedom of speech, and separation of church and state.",
-    "influences": [
-      "John Locke",
-      "Isaac Newton",
-      "Rene Descartes"
-    ]
-  },
-  {
-    "name": "Ernest Hemingway",
-    "birth_date": "July 21, 1899",
-    "death_date": "July 2, 1961",
-    "nationality": "American",
-    "profession": "Novelist, Short Story Writer",
-    "notable_works": [
-      "The Old Man and the Sea",
-      "A Farewell to Arms",
-      "For Whom the Bell Tolls"
-    ],
-    "genres": [
-      "Fiction",
-      "War Literature"
-    ],
-    "impact": "Hemingway's writing style, characterized by economy and understated emotion, influenced 20th-century literature and narrative techniques.",
-    "influences": [
-      "Mark Twain",
-      "F. Scott Fitzgerald",
-      "James Joyce"
-    ]
-  },
-  {
-    "name": "Octavia E. Butler",
-    "birth_date": "June 22, 1947",
-    "death_date": "February 24, 2006",
-    "nationality": "American",
-    "profession": "Science Fiction Writer",
-    "notable_works": [
-      "Kindred",
-      "Patternmaster",
-      "Parable of the Sower"
-    ],
-    "genres": [
-      "Science Fiction",
-      "Speculative Fiction"
-    ],
-    "impact": "Butler's exploration of race, gender, and social issues in her works has significantly influenced science fiction, expanding its boundaries to include diverse voices.",
-    "influences": [
-      "George Orwell",
-      "Kurt Vonnegut",
-      "Samuel R. Delany"
-    ]
-  },
-  {
-    "name": "George Orwell",
-    "birth_name": "Eric Arthur Blair",
-    "birth_date": "June 25, 1903",
-    "death_date": "January 21, 1950",
-    "nationality": "British",
-    "profession": "Novelist, Essayist, Journalist",
-    "notable_works": [
-      "Animal Farm",
-      "Nineteen Eighty-Four",
-      "Homage to Catalonia"
-    ],
-    "genres": [
-      "Dystopian Fiction",
-      "Political Fiction"
-    ],
-    "impact": "Orwell's works, particularly '1984' and 'Animal Farm', have had a profound impact on political thought and are widely regarded as critiques of totalitarianism.",
-    "influences": [
-      "H.G. Wells",
-      "Aldous Huxley",
-      "D.H. Lawrence"
-    ]
-  },
-  {
-    "name": "Dashiell Hammett",
-    "birth_date": "May 27, 1894",
-    "death_date": "January 10, 1961",
-    "nationality": "American",
-    "profession": "Novelist, Screenwriter",
-    "notable_works": [
-      "The Maltese Falcon",
-      "The Thin Man",
-      "Red Harvest"
-    ],
-    "genres": [
-      "Hard-Boiled Detective Fiction",
-      "Mystery"
-    ],
-    "impact": "Hammett is regarded as a pioneer of hard-boiled detective fiction, establishing conventions that would shape the genre for decades.",
-    "influences": [
-      "Raymond Chandler",
-      "Ernest Hemingway",
-      "Edgar Allan Poe"
-    ]
-  },
-  {
     "name": "Agatha Christie",
-    "birth_date": "September 15, 1890",
-    "death_date": "January 12, 1976",
+    "full_name": "Dame Agatha Mary Clarissa Christie",
+    "pen_name": "Mary Westmacott",
+    "dob": "September 15 1890",
+    "dod": "January 12 1976",
+    "impacts": [
+      "Detective fiction",
+      "Mystery novels",
+      "Crime literature"
+    ],
+    "influences": [
+      "Arthur Conan Doyle",
+      "Wilkie Collins"
+    ],
     "nationality": "British",
-    "profession": "Novelist, Playwright",
-    "notable_works": [
-      "Murder on the Orient Express",
-      "And Then There Were None",
-      "The Mousetrap"
+    "professions": [
+      "Author",
+      "Playwright"
+    ],
+    "languages": [
+      "English"
     ],
     "genres": [
       "Mystery",
-      "Crime Fiction"
+      "Crime",
+      "Thriller",
+      "Detective fiction"
     ],
-    "impact": "Christie is one of the best-selling authors of all time, known for her intricate plots and memorable characters, particularly Hercule Poirot and Miss Marple.",
-    "influences": [
-      "Sir Arthur Conan Doyle",
-      "Wilkie Collins",
-      "Edgar Allan Poe"
+    "publishers": [
+      "Collins Crime Club",
+      "Dodd, Mead & Co.",
+      "HarperCollins"
     ]
   },
   {
     "name": "Alan Dean Foster",
-    "birth_date": "November 18, 1946",
+    "full_name": "Alan Dean Foster",
+    "pen_name": null,
+    "dob": "November 18 1946",
+    "dod": null,
+    "impacts": [
+      "Science fiction and fantasy literature",
+      "Movie novelizations",
+      "Expanded universe storytelling"
+    ],
+    "influences": [
+      "Ray Bradbury",
+      "H. P. Lovecraft",
+      "Edgar Rice Burroughs"
+    ],
     "nationality": "American",
-    "profession": "Novelist, Screenwriter",
-    "notable_works": [
-      "The Taken Trilogy",
-      "Logan's Run",
-      "Star Wars: From the Adventures of Luke Skywalker"
+    "professions": [
+      "Author",
+      "Screenwriter"
+    ],
+    "languages": [
+      "English"
     ],
     "genres": [
-      "Science Fiction",
+      "Science fiction",
       "Fantasy",
-      "Movie Novelizations"
+      "Horror",
+      "Adventure"
     ],
-    "impact": "Foster's ability to create expansive worlds and elaborate stories has enriched the science fiction and fantasy genres, particularly in novel adaptations.",
-    "influences": [
-      "Jules Verne",
-      "Isaac Asimov",
-      "Arthur C. Clarke"
+    "publishers": [
+      "Del Rey",
+      "Ace Books",
+      "Warner Books",
+      "Berkley Books"
     ]
   },
   {
-    "name": "Stephen Hawking",
-    "birth_date": "January 8, 1942",
-    "death_date": "March 14, 2018",
-    "nationality": "British",
-    "profession": "Theoretical Physicist, Cosmologist, Author",
-    "notable_works": [
-      "A Brief History of Time",
-      "The Universe in a Nutshell",
-      "The Grand Design"
+    "name": "Alice Roberts",
+    "full_name": "Alice May Roberts",
+    "pen_name": null,
+    "dob": "May 19 1973",
+    "dod": null,
+    "impacts": [
+      "Public understanding of science",
+      "Anthropology and human evolution",
+      "Science communication"
     ],
-    "fields_of_study": [
-      "Theoretical Physics",
-      "Cosmology"
-    ],
-    "impact": "Hawking popularized complex scientific concepts and theories, fostering public interest in cosmology and theoretical physics.",
     "influences": [
-      "Albert Einstein",
+      "Charles Darwin",
+      "Richard Dawkins",
+      "Mary Leakey"
+    ],
+    "nationality": "British",
+    "professions": [
+      "Biological Anthropologist",
+      "Author",
+      "Broadcaster",
+      "Professor"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Popular Science",
+      "Non-fiction",
+      "Anthropology",
+      "History"
+    ],
+    "publishers": [
+      "Simon & Schuster",
+      "Bloomsbury Publishing"
+    ]
+  },
+  {
+    "name": "Arthur C. Clarke",
+    "full_name": "Sir Arthur Charles Clarke",
+    "pen_name": null,
+    "dob": "December 16 1917",
+    "dod": "March 19 2008",
+    "impacts": [
+      "Science fiction literature",
+      "Space exploration advocacy",
+      "Technological foresight"
+    ],
+    "influences": [
+      "H. G. Wells",
+      "Jules Verne",
+      "Olaf Stapledon"
+    ],
+    "nationality": "British",
+    "professions": [
+      "Author",
+      "Inventor",
+      "Futurist"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Science fiction",
+      "Non-fiction",
+      "Futurism"
+    ],
+    "publishers": [
+      "Gollancz",
+      "Harper & Row",
+      "Ballantine Books"
+    ]
+  },
+  {
+    "name": "Benjamin Franklin",
+    "full_name": "Benjamin Franklin",
+    "pen_name": "Poor Richard",
+    "dob": "January 17 1706",
+    "dod": "April 17 1790",
+    "impacts": [
+      "American Enlightenment",
+      "Scientific discoveries",
+      "Political philosophy",
+      "Printing and publishing"
+    ],
+    "influences": [
+      "John Locke",
       "Isaac Newton",
-      "Richard Feynman"
+      "Francis Bacon"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Writer",
+      "Inventor",
+      "Diplomat",
+      "Scientist",
+      "Publisher",
+      "Politician"
+    ],
+    "languages": [
+      "English",
+      "French"
+    ],
+    "genres": [
+      "Autobiography",
+      "Political essays",
+      "Scientific works",
+      "Satire"
+    ],
+    "publishers": [
+      "The Pennsylvania Gazette",
+      "Poor Richard's Almanack"
+    ]
+  },
+  {
+    "name": "Brian Cox",
+    "full_name": "Brian Edward Cox",
+    "pen_name": null,
+    "dob": "March 3 1968",
+    "dod": null,
+    "impacts": [
+      "Physics communication",
+      "Science education",
+      "Television presenting"
+    ],
+    "influences": [
+      "Carl Sagan",
+      "Richard Feynman",
+      "Stephen Hawking"
+    ],
+    "nationality": "British",
+    "professions": [
+      "Physicist",
+      "Professor",
+      "Author",
+      "Television presenter"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Popular science",
+      "Non-fiction"
+    ],
+    "publishers": [
+      "HarperCollins",
+      "Penguin Books"
+    ]
+  },
+  {
+    "name": "Lewis Carroll",
+    "full_name": "Charles Lutwidge Dodgson",
+    "pen_name": "Lewis Carroll",
+    "dob": "January 27 1832",
+    "dod": "January 14 1898",
+    "impacts": [
+      "Children's literature",
+      "Mathematics",
+      "Logic",
+      "Wordplay"
+    ],
+    "influences": [
+      "Edgar Allan Poe",
+      "Sir Walter Scott",
+      "Thomas Malory"
+    ],
+    "nationality": "British",
+    "professions": [
+      "Author",
+      "Mathematician",
+      "Logician",
+      "Photographer"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Fantasy",
+      "Children's literature",
+      "Poetry",
+      "Mathematics"
+    ],
+    "publishers": [
+      "Macmillan",
+      "Richard Bentley",
+      "Harper & Brothers"
+    ]
+  },
+  {
+    "name": "Dashiell Hammett",
+    "full_name": "Samuel Dashiell Hammett",
+    "pen_name": null,
+    "dob": "May 27 1894",
+    "dod": "January 10 1961",
+    "impacts": [
+      "Hardboiled detective fiction",
+      "Film noir",
+      "Crime fiction"
+    ],
+    "influences": [
+      "Ernest Hemingway",
+      "Raymond Chandler",
+      "Edgar Allan Poe"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Screenwriter"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Crime",
+      "Detective fiction",
+      "Thriller",
+      "Noir"
+    ],
+    "publishers": [
+      "Knopf",
+      "Vintage Crime"
+    ]
+  },
+  {
+    "name": "Edgar Allan Poe",
+    "full_name": "Edgar Allan Poe",
+    "pen_name": null,
+    "dob": "January 19 1809",
+    "dod": "October 07 1849",
+    "impacts": [
+      "Gothic fiction",
+      "Detective fiction",
+      "Horror",
+      "Poetry",
+      "Literary criticism"
+    ],
+    "influences": [
+      "Lord Byron",
+      "Samuel Taylor Coleridge",
+      "William Shakespeare"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Poet",
+      "Editor",
+      "Literary critic"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Horror",
+      "Gothic fiction",
+      "Mystery",
+      "Poetry",
+      "Science fiction"
+    ],
+    "publishers": [
+      "Graham's Magazine",
+      "The Broadway Journal",
+      "Richard Bentley"
+    ]
+  },
+  {
+    "name": "Edgar Rice Burroughs",
+    "full_name": "Edgar Rice Burroughs",
+    "pen_name": null,
+    "dob": "September 01 1875",
+    "dod": "March 19 1950",
+    "impacts": [
+      "Adventure fiction",
+      "Science fiction",
+      "Fantasy",
+      "Popularizing pulp magazines"
+    ],
+    "influences": [
+      "H. Rider Haggard",
+      "Rudyard Kipling",
+      "H.G. Wells"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Screenwriter"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Adventure",
+      "Science fiction",
+      "Fantasy",
+      "Pulp fiction"
+    ],
+    "publishers": [
+      "A.C. McClurg",
+      "Ballantine Books",
+      "Tarzan Press"
+    ]
+  },
+  {
+    "name": "Eric Hoffer",
+    "full_name": "Eric Hoffer",
+    "pen_name": null,
+    "dob": "July 25 1902",
+    "dod": "May 21 1983",
+    "impacts": [
+      "Social philosophy",
+      "Political thought",
+      "Mass movements",
+      "Psychology of crowds"
+    ],
+    "influences": [
+      "Friedrich Nietzsche",
+      "Karl Marx",
+      "John Stuart Mill"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Philosopher",
+      "Author",
+      "Laborer"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Philosophy",
+      "Sociology",
+      "Political science"
+    ],
+    "publishers": [
+      "Harper & Row",
+      "Perennial Classics"
+    ]
+  },
+  {
+    "name": "Ernest Hemingway",
+    "full_name": "Ernest Miller Hemingway",
+    "pen_name": null,
+    "dob": "July 21 1899",
+    "dod": "July 02 1961",
+    "impacts": [
+      "Modern American literature",
+      "Concise writing style",
+      "War fiction",
+      "The Lost Generation"
+    ],
+    "influences": [
+      "Gertrude Stein",
+      "F. Scott Fitzgerald",
+      "Mark Twain"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Journalist",
+      "Novelist"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Literary fiction",
+      "War fiction",
+      "Adventure",
+      "Short stories"
+    ],
+    "publishers": [
+      "Scribner",
+      "Harvill Secker",
+      "Penguin Books"
+    ]
+  },
+  {
+    "name": "Frank Herbert",
+    "full_name": "Frank Patrick Herbert",
+    "pen_name": null,
+    "dob": "October 08 1920",
+    "dod": "February 11 1986",
+    "impacts": [
+      "Science fiction",
+      "Ecology in literature",
+      "Dune series",
+      "Philosophical themes in fiction"
+    ],
+    "influences": [
+      "H.G. Wells",
+      "Aldous Huxley",
+      "John W. Campbell Jr."
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Journalist",
+      "Editor"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Science fiction",
+      "Fantasy",
+      "Philosophical fiction"
+    ],
+    "publishers": [
+      "Chilton Books",
+      "Putnam",
+      "Ace Books"
+    ]
+  },
+  {
+    "name": "Greg Bear",
+    "full_name": "Gregory Dale Bear",
+    "pen_name": null,
+    "dob": "August 20 1951",
+    "dod": null,
+    "impacts": [
+      "Hard science fiction",
+      "Biotechnology in literature",
+      "Speculative fiction"
+    ],
+    "influences": [
+      "Isaac Asimov",
+      "Arthur C. Clarke",
+      "Philip K. Dick"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Novelist",
+      "Short story writer"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Science fiction",
+      "Speculative fiction",
+      "Hard science fiction"
+    ],
+    "publishers": [
+      "HarperCollins",
+      "Tor Books",
+      "Del Rey"
+    ]
+  },
+  {
+    "name": "Gregory Benford",
+    "full_name": "Gregory L. Benford",
+    "pen_name": null,
+    "dob": "January 30 1941",
+    "dod": null,
+    "impacts": [
+      "Hard science fiction",
+      "Astrophysics in literature",
+      "Biotechnology",
+      "Fermi paradox"
+    ],
+    "influences": [
+      "Isaac Asimov",
+      "Arthur C. Clarke",
+      "J.R.R. Tolkien"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Astrophysicist",
+      "Professor"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Science fiction",
+      "Hard science fiction",
+      "Speculative fiction"
+    ],
+    "publishers": [
+      "Tor Books",
+      "Bantam Books",
+      "HarperCollins"
     ]
   },
   {
     "name": "H. L. Mencken",
     "full_name": "Henry Louis Mencken",
-    "birth_date": "September 12, 1880",
-    "death_date": "January 29, 1956",
-    "nationality": "American",
-    "profession": "Journalist, Essayist, Critic",
-    "notable_works": [
-      "The Sage of Baltimore",
-      "Prejudices: First Series",
-      "A Mencken Chrestomathy"
+    "pen_name": null,
+    "dob": "September 12 1880",
+    "dod": "January 29 1956",
+    "impacts": [
+      "American journalism",
+      "Social criticism",
+      "American culture analysis",
+      "Satirical writing"
     ],
-    "genres": [
-      "Satire",
-      "Social Commentary",
-      "Criticism"
-    ],
-    "impact": "Mencken was a leading critic of American society and culture, known for his wit and provocative opinions.",
     "influences": [
       "Mark Twain",
-      "Friedrich Nietzsche",
-      "Henry Adams"
-    ]
-  },
-  {
-    "name": "Mark Twain",
-    "birth_name": "Samuel Langhorne Clemens",
-    "birth_date": "November 30, 1835",
-    "death_date": "April 21, 1910",
+      "Oscar Wilde",
+      "Friedrich Nietzsche"
+    ],
     "nationality": "American",
-    "profession": "Writer, Humorist",
-    "notable_works": [
-      "The Adventures of Tom Sawyer",
-      "Adventures of Huckleberry Finn",
-      "The Prince and the Pauper"
+    "professions": [
+      "Journalist",
+      "Essayist",
+      "Editor",
+      "Critic"
+    ],
+    "languages": [
+      "English"
     ],
     "genres": [
-      "Fiction",
+      "Journalism",
       "Satire",
-      "Humor"
+      "Essays",
+      "Social criticism"
     ],
-    "impact": "Twain is celebrated as one of America's greatest writers, known for his sharp social commentary and vivid characters.",
-    "influences": [
-      "Herman Melville",
-      "Charles Dickens",
-      "Henry James"
+    "publishers": [
+      "Alfred A. Knopf",
+      "The Sun (Baltimore)",
+      "Modern Library"
     ]
   },
   {
     "name": "H. G. Wells",
-    "birth_date": "September 21, 1866",
-    "death_date": "August 13, 1946",
-    "nationality": "British",
-    "profession": "Novelist, Social Commentator",
-    "notable_works": [
-      "The Time Machine",
-      "The War of the Worlds",
-      "The Invisible Man"
+    "full_name": "Herbert George Wells",
+    "pen_name": null,
+    "dob": "September 21 1866",
+    "dod": "August 13 1946",
+    "impacts": [
+      "Science fiction",
+      "Dystopian fiction",
+      "Social criticism",
+      "Futurism"
     ],
-    "genres": [
-      "Science Fiction",
-      "Social Commentary"
-    ],
-    "impact": "Wells is considered a pioneer of modern science fiction, blending scientific ideas with social critique.",
     "influences": [
       "Jules Verne",
-      "Edgar Allan Poe",
-      "Herbert George Wells"
+      "Charles Darwin",
+      "Thomas Huxley"
+    ],
+    "nationality": "British",
+    "professions": [
+      "Author",
+      "Journalist",
+      "Historian",
+      "Social commentator"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Science fiction",
+      "Dystopian fiction",
+      "History",
+      "Social criticism"
+    ],
+    "publishers": [
+      "Macmillan",
+      "Heinemann",
+      "Harcourt Brace"
     ]
   },
   {
-    "name": "Robert E. Howard",
-    "birth_date": "January 22, 1906",
-    "death_date": "June 11, 1936",
+    "name": "H. P. Lovecraft",
+    "full_name": "Howard Phillips Lovecraft",
+    "pen_name": null,
+    "dob": "August 20 1890",
+    "dod": "March 15 1937",
+    "impacts": [
+      "Horror fiction",
+      "Cosmic horror",
+      "Weird fiction",
+      "Influence on modern horror"
+    ],
+    "influences": [
+      "Edgar Allan Poe",
+      "Arthur Machen",
+      "Algernon Blackwood"
+    ],
     "nationality": "American",
-    "profession": "Writer",
-    "notable_works": [
-      "Conan the Barbarian",
-      "Kull the Conqueror",
-      "Solomon Kane"
+    "professions": [
+      "Author",
+      "Novelist",
+      "Short story writer"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Horror",
+      "Weird fiction",
+      "Fantasy",
+      "Science fiction"
+    ],
+    "publishers": [
+      "Arkham House",
+      "Visionary Press",
+      "Doubleday"
+    ]
+  },
+  {
+    "name": "Harper Lee",
+    "full_name": "Nelle Harper Lee",
+    "pen_name": null,
+    "dob": "April 28 1926",
+    "dod": "February 19 2016",
+    "impacts": [
+      "American literature",
+      "Civil rights",
+      "Classic literature",
+      "Southern Gothic"
+    ],
+    "influences": [
+      "Truman Capote",
+      "William Faulkner",
+      "Mark Twain"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Novelist"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Southern Gothic",
+      "Drama",
+      "Historical fiction"
+    ],
+    "publishers": [
+      "J.B. Lippincott & Co.",
+      "HarperCollins"
+    ]
+  },
+  {
+    "name": "Isaac Asimov",
+    "full_name": "Isaac Yudovich Asimov",
+    "pen_name": null,
+    "dob": "January 02 1920",
+    "dod": "April 06 1992",
+    "impacts": [
+      "Science fiction",
+      "Popular science",
+      "Robotics",
+      "Foundation series",
+      "Modern scientific thought"
+    ],
+    "influences": [
+      "H.G. Wells",
+      "L. Sprague de Camp",
+      "John W. Campbell"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Professor",
+      "Biochemist",
+      "Popular science writer"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Science fiction",
+      "Popular science",
+      "Non-fiction",
+      "Robotics"
+    ],
+    "publishers": [
+      "Doubleday",
+      "Gnome Press",
+      "Bantam Books"
+    ]
+  },
+  {
+    "name": "Jacob Bronowski",
+    "full_name": "Jacob Bronowski",
+    "pen_name": null,
+    "dob": "January 18 1908",
+    "dod": "August 22 1974",
+    "impacts": [
+      "Science communication",
+      "Humanism",
+      "Mathematics",
+      "Philosophy of science"
+    ],
+    "influences": [
+      "Albert Einstein",
+      "Bertrand Russell",
+      "Karl Popper"
+    ],
+    "nationality": "British",
+    "professions": [
+      "Mathematician",
+      "Scientist",
+      "Author",
+      "Documentary filmmaker"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Non-fiction",
+      "Science",
+      "Philosophy",
+      "Mathematics"
+    ],
+    "publishers": [
+      "Harper & Row",
+      "BBC Books"
+    ]
+  },
+  {
+    "name": "John Grisham",
+    "full_name": "John Ray Grisham Jr.",
+    "pen_name": null,
+    "dob": "February 08 1955",
+    "dod": null,
+    "impacts": [
+      "Legal thrillers",
+      "Fiction based on law",
+      "Bestselling novels",
+      "Social justice themes"
+    ],
+    "influences": [
+      "John le Carré",
+      "Erle Stanley Gardner",
+      "Raymond Chandler"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Attorney",
+      "Novelist"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Legal thriller",
+      "Crime fiction",
+      "Suspense",
+      "Mystery"
+    ],
+    "publishers": [
+      "Doubleday",
+      "Penguin Random House",
+      "Bantam Books"
+    ]
+  },
+  {
+    "name": "J. R. R. Tolkien",
+    "full_name": "John Ronald Reuel Tolkien",
+    "pen_name": null,
+    "dob": "January 03 1892",
+    "dod": "September 02 1973",
+    "impacts": [
+      "Fantasy literature",
+      "Epic fantasy",
+      "Creation of Middle-earth",
+      "Linguistics in fiction"
+    ],
+    "influences": [
+      "William Morris",
+      "George MacDonald",
+      "Beowulf",
+      "Richard Wagner"
+    ],
+    "nationality": "British",
+    "professions": [
+      "Author",
+      "Professor",
+      "Philologist",
+      "Linguist"
+    ],
+    "languages": [
+      "English",
+      "Old English",
+      "Elvish (constructed languages)"
     ],
     "genres": [
       "Fantasy",
-      "Sword and Sorcery",
+      "High fantasy",
+      "Historical fiction",
+      "Philology"
+    ],
+    "publishers": [
+      "George Allen & Unwin",
+      "Houghton Mifflin",
+      "HarperCollins"
+    ]
+  },
+  {
+    "name": "Jonathan Swift",
+    "full_name": "Jonathan Swift",
+    "pen_name": null,
+    "dob": "November 30 1667",
+    "dod": "October 19 1745",
+    "impacts": [
+      "Satirical literature",
+      "Political writing",
+      "Anglo-Irish literature",
+      "Essay writing"
+    ],
+    "influences": [
+      "John Locke",
+      "Richard Steele",
+      "John Dryden"
+    ],
+    "nationality": "Irish",
+    "professions": [
+      "Author",
+      "Poet",
+      "Satirist",
+      "Cleric",
+      "Essayist"
+    ],
+    "languages": [
+      "English",
+      "Latin"
+    ],
+    "genres": [
+      "Satire",
+      "Political satire",
+      "Essays",
+      "Prose"
+    ],
+    "publishers": [
+      "Benjamin Motte",
+      "George Faulkner",
+      "Dublin University Press"
+    ]
+  },
+  {
+    "name": "Jules Verne",
+    "full_name": "Jules Gabriel Verne",
+    "pen_name": null,
+    "dob": "February 08 1828",
+    "dod": "March 24 1905",
+    "impacts": [
+      "Science fiction",
+      "Adventure fiction",
+      "Speculative fiction",
+      "Pioneering the genre of science fiction"
+    ],
+    "influences": [
+      "Edgar Allan Poe",
+      "H.G. Wells",
+      "Sir Walter Scott"
+    ],
+    "nationality": "French",
+    "professions": [
+      "Author",
+      "Playwright",
+      "Poet"
+    ],
+    "languages": [
+      "French"
+    ],
+    "genres": [
+      "Adventure",
+      "Science fiction",
+      "Travel literature",
+      "Speculative fiction"
+    ],
+    "publishers": [
+      "Pierre-Jules Hetzel",
+      "Hachette Livre"
+    ]
+  },
+  {
+    "name": "Lawrence Krauss",
+    "full_name": "Lawrence Maxwell Krauss",
+    "pen_name": null,
+    "dob": "May 27 1954",
+    "dod": null,
+    "impacts": [
+      "Cosmology",
+      "Theoretical physics",
+      "Popular science",
+      "Public understanding of science"
+    ],
+    "influences": [
+      "Richard Feynman",
+      "Stephen Hawking",
+      "Albert Einstein"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Theoretical physicist",
+      "Cosmologist",
+      "Author",
+      "Professor"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Non-fiction",
+      "Popular science",
+      "Physics",
+      "Cosmology"
+    ],
+    "publishers": [
+      "W.W. Norton & Company",
+      "Penguin Books",
+      "Little, Brown and Company"
+    ]
+  },
+  {
+    "name": "Leo Tolstoy",
+    "full_name": "Lev Nikolayevich Tolstoy",
+    "pen_name": null,
+    "dob": "September 09 1828",
+    "dod": "November 20 1910",
+    "impacts": [
+      "Russian literature",
+      "Realism",
+      "Philosophy",
+      "Nonviolent resistance",
+      "Christian anarchism"
+    ],
+    "influences": [
+      "Alexander Pushkin",
+      "Friedrich Nietzsche",
+      "Jean-Jacques Rousseau"
+    ],
+    "nationality": "Russian",
+    "professions": [
+      "Author",
+      "Novelist",
+      "Philosopher",
+      "Playwright"
+    ],
+    "languages": [
+      "Russian"
+    ],
+    "genres": [
+      "Realism",
+      "Historical fiction",
+      "Philosophical fiction"
+    ],
+    "publishers": [
+      "The Russian Messenger",
+      "Annals of the Fatherland",
+      "Penguin Classics"
+    ]
+  },
+  {
+    "name": "Louis L'Amour",
+    "full_name": "Louis Dearborn L'Amour",
+    "pen_name": null,
+    "dob": "March 22 1908",
+    "dod": "June 10 1988",
+    "impacts": [
+      "Western fiction",
+      "Adventure fiction",
+      "Cowboy literature",
+      "Popularizing the Western genre"
+    ],
+    "influences": [
+      "Zane Grey",
+      "Max Brand",
+      "Jack London"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Novelist",
+      "Short story writer"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Western",
+      "Adventure",
+      "Historical fiction",
+      "Action"
+    ],
+    "publishers": [
+      "Bantam Books",
+      "Doubleday",
+      "Penguin Random House"
+    ]
+  },
+  {
+    "name": "Martin Fowler",
+    "full_name": "Martin Robert Fowler",
+    "pen_name": null,
+    "dob": "April 18 1963",
+    "dod": null,
+    "impacts": [
+      "Software engineering",
+      "Refactoring",
+      "Agile software development",
+      "Object-oriented design"
+    ],
+    "influences": [
+      "Kent Beck",
+      "Erich Gamma",
+      "Grady Booch"
+    ],
+    "nationality": "British",
+    "professions": [
+      "Software developer",
+      "Author",
+      "Consultant"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Software engineering",
+      "Computer science",
+      "Programming"
+    ],
+    "publishers": [
+      "Addison-Wesley",
+      "Prentice Hall",
+      "O'Reilly Media"
+    ]
+  },
+  {
+    "name": "Mary Beard",
+    "full_name": "Mary Beard",
+    "pen_name": null,
+    "dob": "January 01 1955",
+    "dod": null,
+    "impacts": [
+      "Classical studies",
+      "Roman history",
+      "Public engagement with history",
+      "Feminist scholarship"
+    ],
+    "influences": [
+      "Lorna Hardwick",
+      "Herodotus",
+      "Plutarch"
+    ],
+    "nationality": "British",
+    "professions": [
+      "Classicist",
+      "Historian",
+      "Author",
+      "Professor"
+    ],
+    "languages": [
+      "English",
+      "Latin",
+      "Greek"
+    ],
+    "genres": [
+      "History",
+      "Classical studies",
+      "Non-fiction"
+    ],
+    "publishers": [
+      "Profile Books",
+      "Harvard University Press",
+      "Oxford University Press"
+    ]
+  },
+  {
+    "name": "Michel de Montaigne",
+    "full_name": "Michel Eyquem de Montaigne",
+    "pen_name": null,
+    "dob": "February 28 1533",
+    "dod": "September 13 1592",
+    "impacts": [
+      "Essays",
+      "Philosophy",
+      "Skepticism",
+      "Modern humanism"
+    ],
+    "influences": [
+      "Plutarch",
+      "Cicero",
+      "Aristotle"
+    ],
+    "nationality": "French",
+    "professions": [
+      "Philosopher",
+      "Essayist",
+      "Public official"
+    ],
+    "languages": [
+      "French",
+      "Latin"
+    ],
+    "genres": [
+      "Philosophical essays",
+      "Memoir",
+      "Humanism"
+    ],
+    "publishers": [
+      "Robert Estienne",
+      "Gallimard",
+      "Penguin Classics"
+    ]
+  },
+  {
+    "name": "Philip K. Dick",
+    "full_name": "Philip Kindred Dick",
+    "pen_name": null,
+    "dob": "December 16 1928",
+    "dod": "March 02 1982",
+    "impacts": [
+      "Science fiction",
+      "Dystopian literature",
+      "Alternate realities",
+      "Mind-bending narratives"
+    ],
+    "influences": [
+      "H.G. Wells",
+      "George Orwell",
+      "Aldous Huxley"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Novelist",
+      "Short story writer"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Science fiction",
+      "Dystopian fiction",
+      "Speculative fiction",
+      "Psychological thriller"
+    ],
+    "publishers": [
+      "Doubleday",
+      "D.A.W. Books",
+      "Vintage Books"
+    ]
+  },
+  {
+    "name": "Ray Bradbury",
+    "full_name": "Ray Douglas Bradbury",
+    "pen_name": null,
+    "dob": "August 22 1920",
+    "dod": "June 05 2012",
+    "impacts": [
+      "Science fiction",
+      "Dystopian literature",
+      "Fantasy",
+      "Speculative fiction",
+      "Cultural criticism"
+    ],
+    "influences": [
+      "Edgar Allan Poe",
+      "H.G. Wells",
+      "Marlene Dietrich"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Novelist",
+      "Short story writer",
+      "Screenwriter"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Science fiction",
+      "Fantasy",
+      "Dystopian fiction",
       "Horror"
     ],
-    "impact": "Howard is credited with creating the sword and sorcery subgenre and is known for his heroic fantasy tales.",
+    "publishers": [
+      "Doubleday",
+      "Simon & Schuster",
+      "Random House"
+    ]
+  },
+  {
+    "name": "Raymond Chandler",
+    "full_name": "Raymond Thornton Chandler",
+    "pen_name": null,
+    "dob": "July 23 1888",
+    "dod": "March 26 1959",
+    "impacts": [
+      "Hardboiled detective fiction",
+      "Noir fiction",
+      "Pioneering detective protagonists"
+    ],
     "influences": [
-      "H. G. Wells",
-      "Arthur Machen",
-      "Edgar Rice Burroughs"
+      "Dashiell Hammett",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Novelist",
+      "Screenwriter"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Hardboiled detective",
+      "Noir fiction",
+      "Crime fiction",
+      "Mystery"
+    ],
+    "publishers": [
+      "Alfred A. Knopf",
+      "Houghton Mifflin",
+      "Vintage Books"
+    ]
+  },
+  {
+    "name": "Robert Heinlein",
+    "full_name": "Robert Anson Heinlein",
+    "pen_name": null,
+    "dob": "July 07 1907",
+    "dod": "May 08 1988",
+    "impacts": [
+      "Science fiction",
+      "Space exploration",
+      "Individualism",
+      "Political and social theory in fiction"
+    ],
+    "influences": [
+      "H.G. Wells",
+      "Isaac Asimov",
+      "Jules Verne"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Science fiction writer",
+      "Aerospace engineer"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Science fiction",
+      "Military science fiction",
+      "Speculative fiction"
+    ],
+    "publishers": [
+      "G.P. Putnam's Sons",
+      "Baen Books",
+      "Ace Books"
+    ]
+  },
+  {
+    "name": "Mark Twain",
+    "full_name": "Samuel Langhorne Clemens",
+    "pen_name": "Mark Twain",
+    "dob": "November 30 1835",
+    "dod": "April 21 1910",
+    "impacts": [
+      "American literature",
+      "Humor",
+      "Social criticism",
+      "Regionalism"
+    ],
+    "influences": [
+      "Ralph Waldo Emerson",
+      "Herman Melville",
+      "Charles Dickens"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Humorist",
+      "Lecturer",
+      "Entrepreneur"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Fiction",
+      "Humor",
+      "Satire",
+      "Adventure"
+    ],
+    "publishers": [
+      "Charles L. Webster and Company",
+      "Harper & Brothers",
+      "Doubleday"
+    ]
+  },
+  {
+    "name": "Arthur Conan Doyle",
+    "full_name": "Arthur Ignatius Conan Doyle",
+    "pen_name": null,
+    "dob": "May 22 1859",
+    "dod": "July 07 1930",
+    "impacts": [
+      "Detective fiction",
+      "Sherlock Holmes",
+      "Medical fiction",
+      "Historical novels"
+    ],
+    "influences": [
+      "Edgar Allan Poe",
+      "Wilkie Collins",
+      "R. L. Stevenson"
+    ],
+    "nationality": "British",
+    "professions": [
+      "Author",
+      "Physician",
+      "Inventor",
+      "Playwright"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Detective fiction",
+      "Historical fiction",
+      "Science fiction",
+      "Fantasy"
+    ],
+    "publishers": [
+      "George Newnes Ltd",
+      "Collins",
+      "Methuen"
+    ]
+  },
+  {
+    "name": "Dr. Seuss",
+    "full_name": "Theodor Seuss Geisel",
+    "pen_name": "Dr. Seuss",
+    "dob": "March 02 1904",
+    "dod": "September 24 1991",
+    "impacts": [
+      "Children's literature",
+      "Educational books",
+      "Rhyming verse",
+      "Social commentary through children's stories"
+    ],
+    "influences": [
+      "Aesop",
+      "The Brothers Grimm",
+      "Hugh Lofting"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Illustrator",
+      "Cartoonist",
+      "Poet"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Children's literature",
+      "Poetry",
+      "Picture books",
+      "Humor"
+    ],
+    "publishers": [
+      "Random House",
+      "HarperCollins",
+      "Houghton Mifflin Harcourt"
+    ]
+  },
+  {
+    "name": "Terry Pratchett",
+    "full_name": "Sir Terence David John Pratchett",
+    "pen_name": null,
+    "dob": "April 28 1948",
+    "dod": "March 12 2015",
+    "impacts": [
+      "Fantasy literature",
+      "Humor",
+      "Satire",
+      "Discworld series"
+    ],
+    "influences": [
+      "Douglas Adams",
+      "J.R.R. Tolkien",
+      "G.K. Chesterton"
+    ],
+    "nationality": "British",
+    "professions": [
+      "Author",
+      "Novelist",
+      "Journalist"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Fantasy",
+      "Humor",
+      "Satire",
+      "Science fiction"
+    ],
+    "publishers": [
+      "Doubleday",
+      "HarperCollins",
+      "Penguin Books"
+    ]
+  },
+  {
+    "name": "Thomas Paine",
+    "full_name": "Thomas Paine",
+    "pen_name": null,
+    "dob": "February 09 1737",
+    "dod": "June 08 1809",
+    "impacts": [
+      "American Revolution",
+      "Political philosophy",
+      "Human rights",
+      "Democracy"
+    ],
+    "influences": [
+      "John Locke",
+      "Jean-Jacques Rousseau",
+      "Voltaire"
+    ],
+    "nationality": "American (born in England)",
+    "professions": [
+      "Political activist",
+      "Philosopher",
+      "Revolutionary",
+      "Pamphleteer"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Political pamphlets",
+      "Political theory",
+      "Revolutionary writing"
+    ],
+    "publishers": [
+      "Robert Bell",
+      "William Cobbett",
+      "Penguin Classics"
+    ]
+  },
+  {
+    "name": "Ursula K. Le Guin",
+    "full_name": "Ursula Kroeber Le Guin",
+    "pen_name": null,
+    "dob": "October 21 1929",
+    "dod": "January 22 2018",
+    "impacts": [
+      "Science fiction",
+      "Fantasy",
+      "Feminist literature",
+      "Anthropology in fiction",
+      "Exploration of social structures and cultures"
+    ],
+    "influences": [
+      "J.R.R. Tolkien",
+      "Doris Lessing",
+      "Margaret Atwood"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Author",
+      "Poet",
+      "Essayist",
+      "Professor"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Science fiction",
+      "Fantasy",
+      "Speculative fiction",
+      "Children's literature"
+    ],
+    "publishers": [
+      "HarperCollins",
+      "G.P. Putnam's Sons",
+      "Harcourt Brace Jovanovich"
+    ]
+  },
+  {
+    "name": "William Shakespeare",
+    "full_name": "William Shakespeare",
+    "pen_name": null,
+    "dob": "April 23 1564",
+    "dod": "April 23 1616",
+    "impacts": [
+      "English literature",
+      "Drama",
+      "Poetry",
+      "Development of the English language",
+      "Theatrical world"
+    ],
+    "influences": [
+      "Seneca",
+      "Ovid",
+      "Plutarch"
+    ],
+    "nationality": "English",
+    "professions": [
+      "Playwright",
+      "Poet",
+      "Actor"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Tragedy",
+      "Comedy",
+      "History",
+      "Poetry"
+    ],
+    "publishers": [
+      "Thomas Thorpe",
+      "John Smethwick",
+      "Penguin Classics"
+    ]
+  },
+  {
+    "name": "George Orwell",
+    "full_name": "Eric Arthur Blair",
+    "pen_name": "George Orwell",
+    "dob": "June 25 1903",
+    "dod": "January 21 1950",
+    "impacts": [
+      "Dystopian fiction",
+      "Political commentary",
+      "Social criticism",
+      "Totalitarianism",
+      "Language and manipulation"
+    ],
+    "influences": [
+      "Jonathan Swift",
+      "H.G. Wells",
+      "Leon Trotsky"
+    ],
+    "nationality": "British",
+    "professions": [
+      "Author",
+      "Journalist",
+      "Essayist",
+      "Critic"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Dystopian fiction",
+      "Political fiction",
+      "Social commentary",
+      "Essays"
+    ],
+    "publishers": [
+      "Secker & Warburg",
+      "Harvill Secker",
+      "Penguin Books"
+    ]
+  },
+  {
+    "name": "Jim Al-Khalili",
+    "full_name": "Jim Al-Khalili",
+    "pen_name": null,
+    "dob": "September 20 1962",
+    "dod": null,
+    "impacts": [
+      "Physics popularization",
+      "Quantum mechanics",
+      "Science communication",
+      "Academic research"
+    ],
+    "influences": [
+      "Richard Feynman",
+      "Stephen Hawking",
+      "Brian Cox"
+    ],
+    "nationality": "British",
+    "professions": [
+      "Physicist",
+      "Professor",
+      "Author",
+      "Presenter"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Science",
+      "Popular science",
+      "Non-fiction"
+    ],
+    "publishers": [
+      "Penguin Books",
+      "Oxford University Press",
+      "Wiley"
+    ]
+  },
+  {
+    "name": "Carl Sagan",
+    "full_name": "Carl Sagan",
+    "pen_name": null,
+    "dob": "November 9 1934",
+    "dod": "December 20 1996",
+    "impacts": [
+      "Pioneering work in planetary science and astronomy.",
+      "Promoted the search for extraterrestrial intelligence (SETI).",
+      "Popularized science through books and television, especially through the series 'Cosmos'.",
+      "Contributed to the understanding of the greenhouse effect and climate change."
+    ],
+    "influences": [
+      "Influenced the public's interest in space exploration.",
+      "Heavily involved in NASA missions such as the Mariner, Viking, Voyager, and Galileo missions.",
+      "Incorporated the importance of science literacy and critical thinking in his works."
+    ],
+    "nationality": "American",
+    "professions": [
+      "Astronomer",
+      "Astrophysicist",
+      "Cosmologist",
+      "Author",
+      "Science communicator"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Science",
+      "Astronomy",
+      "Popular Science",
+      "Non-fiction"
+    ],
+    "publishers": [
+      "Random House",
+      "Ballantine Books",
+      "Doubleday",
+      "Penguin Books"
+    ]
+  },
+  {
+    "name": "Steven Pinker",
+    "full_name": "Steven Arthur Pinker",
+    "pen_name": null,
+    "dob": "September 18 1954",
+    "dod": null,
+    "impacts": [
+      "Cognitive psychology",
+      "Linguistics",
+      "Popular science writing",
+      "Evolutionary psychology"
+    ],
+    "influences": [
+      "Noam Chomsky",
+      "Daniel Dennett",
+      "Richard Dawkins",
+      "Charles Darwin",
+      "William James"
+    ],
+    "nationality": "Canadian-American",
+    "professions": [
+      "Cognitive psychologist",
+      "Linguist",
+      "Author",
+      "Professor"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Non-fiction",
+      "Cognitive science",
+      "Popular science",
+      "Psychology",
+      "Linguistics"
+    ],
+    "publishers": [
+      "Viking Press",
+      "W. W. Norton & Company",
+      "Penguin Books",
+      "HarperCollins"
+    ]
+  },
+  {
+    "name": "Richard Feynman",
+    "full_name": "Richard Phillips Feynman",
+    "pen_name": null,
+    "dob": "May 11 1918",
+    "dod": "February 15 1988",
+    "impacts": [
+      "Revolutionized quantum electrodynamics",
+      "Popularized physics through books and lectures",
+      "Contributed to the Manhattan Project",
+      "Developed Feynman diagrams"
+    ],
+    "influences": [
+      "Albert Einstein",
+      "Paul Dirac",
+      "Niels Bohr"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Physicist",
+      "Educator",
+      "Author"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Science",
+      "Physics",
+      "Autobiography",
+      "Educational"
+    ],
+    "publishers": [
+      "W.W. Norton & Company",
+      "Princeton University Press",
+      "Addison-Wesley",
+      "MIT Press",
+      "Perseus Books"
+    ]
+  },
+  {
+    "name": "Iain Stewart",
+    "full_name": "Iain Simpson Stewart",
+    "pen_name": null,
+    "dob": "November 28 1964",
+    "dod": null,
+    "impacts": [
+      "Popularized Earth sciences through media and documentaries",
+      "Enhanced public understanding of geology and climate change"
+    ],
+    "influences": [
+      "James Hutton",
+      "Charles Lyell",
+      "Richard Feynman"
+    ],
+    "nationality": "British",
+    "professions": [
+      "Geologist",
+      "Professor",
+      "Science Communicator",
+      "Television Presenter",
+      "Author"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Science",
+      "Non-fiction",
+      "Geology",
+      "Environmental Studies",
+      "History"
+    ],
+    "publishers": [
+      "BBC Books",
+      "Rough Guides",
+      "Walter Foster Publishing",
+      "Self-published"
+    ]
+  },
+  {
+    "name": "David Attenborough",
+    "full_name": "Sir David Frederick Attenborough",
+    "pen_name": null,
+    "dob": "May 8 1926",
+    "dod": null,
+    "impacts": [
+      "Revolutionized nature documentaries",
+      "Raised global awareness about environmental conservation",
+      "Influenced wildlife filmmaking and natural history programming"
+    ],
+    "influences": [
+      "Charles Darwin",
+      "Alfred Russel Wallace",
+      "Richard Attenborough (brother)"
+    ],
+    "nationality": "British",
+    "professions": [
+      "Broadcaster",
+      "Naturalist",
+      "Documentary Filmmaker",
+      "Author",
+      "Environmental Advocate"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Nature",
+      "Wildlife",
+      "Environmental Science",
+      "Documentary",
+      "Non-fiction"
+    ],
+    "publishers": [
+      "BBC Books",
+      "HarperCollins",
+      "DK Publishing",
+      "Ebury Press",
+      "Self-published"
+    ]
+  },
+  {
+    "name": "Herman Melville",
+    "full_name": "Herman Melville",
+    "pen_name": null,
+    "dob": "August 01 1819",
+    "dod": "September 28 1891",
+    "impacts": [
+      "American Renaissance",
+      "Adventure Literature",
+      "Modernist Literature"
+    ],
+    "influences": [
+      "William Shakespeare",
+      "Nathaniel Hawthorne",
+      "Edgar Allan Poe",
+      "John Milton",
+      "Homer"
+    ],
+    "nationality": "American",
+    "professions": [
+      "Novelist",
+      "Short Story Writer",
+      "Poet",
+      "Essayist"
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Adventure",
+      "Sea Story",
+      "Philosophical Fiction"
+    ],
+    "publishers": [
+      "Harper & Brothers",
+      "G.P. Putnam's Sons",
+      "Richard Bentley"
     ]
   }
 ]

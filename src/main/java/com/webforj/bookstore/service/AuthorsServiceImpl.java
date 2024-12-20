@@ -1,11 +1,9 @@
 package com.webforj.bookstore.service;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.webforj.bookstore.data.DataLoader;
-import com.webforj.bookstore.repository.AuthorDto;
+import com.webforj.bookstore.data.AuthorsIndex;
+import com.webforj.bookstore.repository.Author;
 import java.io.IOException;
-import java.util.Set;
-import java.util.stream.Collectors;
+import java.util.Collection;
 import org.springframework.stereotype.Service;
 
 /**
@@ -17,29 +15,19 @@ import org.springframework.stereotype.Service;
 @Service
 public class AuthorsServiceImpl implements AuthorsService {
 
-    private final ObjectMapper objectMapper = new ObjectMapper();
-    private final DataLoader dataLoader;
+    private final AuthorsIndex authorsIndex;
 
 
-    public AuthorsServiceImpl(DataLoader dataLoader) {
-        this.dataLoader = dataLoader;
+    public AuthorsServiceImpl(AuthorsIndex authorsIndex) {
+        this.authorsIndex = authorsIndex;
     }
 
-    public Set<AuthorDto> getAllAuthors() throws IOException {
-        return dataLoader.getJsonAuthors().stream()
-          .map(jsonAuthor ->
-            AuthorDto.builder()
-              .id(jsonAuthor.getId())
-              .name(jsonAuthor.getName())
-              .nationality(jsonAuthor.getNationality())
-              .notableWorks(jsonAuthor.getNotableWorks())
-              .fullName(jsonAuthor.getFullName())
-              .birthName(jsonAuthor.getBirthName())
-              .birthDate(jsonAuthor.getDateOfBirth())
-              .deathDate(jsonAuthor.getDateOfDeath())
-              .build()
-          )
-          .collect(Collectors.toSet());
+    /**
+     * @return an unfiltered unordered Set of {@link Author} instances.  All of them.
+     * @throws IOException if anything unnatural happens.
+     */
+    public Collection<Author> getAllAuthors() throws IOException {
+        return authorsIndex.getAuthors();
     }
 
 
